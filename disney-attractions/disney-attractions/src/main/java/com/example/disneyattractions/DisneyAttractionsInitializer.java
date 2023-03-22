@@ -38,7 +38,7 @@ public class DisneyAttractionsInitializer {
                 String attractionName = (String) disneyAttractionJSON.get("attraction_name");
                 String park = (String) disneyAttractionJSON.get("park");
                 String location = (String) disneyAttractionJSON.get("location");
-                int heightLimit = (int) disneyAttractionJSON.get("height_limit");
+                String heightLimit = (String) disneyAttractionJSON.get("height_limit");
                 String rideType = (String) disneyAttractionJSON.get("ride_type");
                 String theme = (String) disneyAttractionJSON.get("theme");
                 Boolean wheelchairAccessible = (Boolean) disneyAttractionJSON.get("wheelchair_accessible");

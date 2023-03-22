@@ -7,7 +7,7 @@ public class DisneyAttraction {
     private String attractionName;
     private String park;
     private String location;
-    private int heightLimit;
+    private String heightLimit;
     private String rideType;
     private String theme;
     private Boolean wheelchairAccessible;
@@ -17,7 +17,7 @@ public class DisneyAttraction {
     public DisneyAttraction() {
     }
 
-    public DisneyAttraction(long id, String attractionName, String park, String location, int heightLimit, String rideType, String theme, Boolean wheelchairAccessible, String description, int rating) {
+    public DisneyAttraction(long id, String attractionName, String park, String location, String heightLimit, String rideType, String theme, Boolean wheelchairAccessible, String description, int rating) {
         this.id = id;
         this.attractionName = attractionName;
         this.park = park;
@@ -62,11 +62,11 @@ public class DisneyAttraction {
         this.location = location;
     }
 
-    public int getHeightLimit() {
+    public String getHeightLimit() {
         return heightLimit;
     }
 
-    public void setHeightLimit(int heightLimit) {
+    public void setHeightLimit(String heightLimit) {
         this.heightLimit = heightLimit;
     }
 
