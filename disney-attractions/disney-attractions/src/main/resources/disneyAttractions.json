@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "attraction_name": "",
+    "park": "",
+    "location": "",
+    "height_limit": 1.5,
+    "ride_type": "",
+    "theme": "",
+    "wheelchair_accessible": true,
+    "description": "",
+    "rating" : 5
+  }
+]
