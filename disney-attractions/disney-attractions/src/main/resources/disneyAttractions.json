@@ -9,7 +9,7 @@
     "ride_type": ["Interactive"],
     "theme": "Indoors",
     "wheelchair_accessible": true,
-    "description": "Calling All Space Cadets\nGet ready for your next space mission by virtually “flying” over the surface of Mars in a jetpack. Race against other players to send a rocket into space. Make and send video postcards from the very edge of space.\n\nThe smallest space explorers will be inspired to reach for the stars as they crawl through wormholes in a fun interactive playground, while older cadets play digital games that prep them for future missions."
+    "description": "Calling All Space CadetsGet ready for your next space mission by virtually “flying” over the surface of Mars in a jetpack. Race against other players to send a rocket into space. Make and send video postcards from the very edge of space.The smallest space explorers will be inspired to reach for the stars as they crawl through wormholes in a fun interactive playground, while older cadets play digital games that prep them for future missions."
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "ride_type": ["Experience"],
     "theme": "Outdoors",
     "wheelchair_accessible": true,
-    "description":"Lakeside Entertainment\nAs the sun goes down, relax as the air fills with the sounds of the show. Enjoy a lineup of bands, concerts and even a DJ Kids Dance Party at this expansive outdoor stage.\n\nIt’s the perfect place to get your daily entertainment fix!"
+    "description":"Lakeside EntertainmentAs the sun goes down, relax as the air fills with the sounds of the show. Enjoy a lineup of bands, concerts and even a DJ Kids Dance Party at this expansive outdoor stage.It’s the perfect place to get your daily entertainment fix!"
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
     "ride_type": ["Slow Ride"],
     "theme": "Outdoors",
     "wheelchair_accessible": true,
-    "description": "A Flight of Fancy\nAscend 400 feet into the sky and enjoy breathtaking, 360-degree views during a tethered 8-minute balloon ride experience.\n\nSpot iconic Walt Disney World sights down below. On clear days, you’ll be treated to stunning vistas up to 10 miles away.\n\nSoar into an enchanting fantasy on this one-of-a-kind adventure!"
+    "description": "A Flight of FancyAscend 400 feet into the sky and enjoy breathtaking, 360-degree views during a tethered 8-minute balloon ride experience.Spot iconic Walt Disney World sights down below. On clear days, you’ll be treated to stunning vistas up to 10 miles away.Soar into an enchanting fantasy on this one-of-a-kind adventure!"
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
     "ride_type": ["Experience"],
     "theme": "Animals",
     "wheelchair_accessible": true,
-    "description": "Make Some Furry Friends\nMeet a variety of unique, domesticated animals and interact with our animal care experts at this expansive, outdoor space."
+    "description": "Make Some Furry FriendsMeet a variety of unique, domesticated animals and interact with our animal care experts at this expansive, outdoor space."
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "ride_type": ["Experience"],
     "theme": "Animals",
     "wheelchair_accessible": true,
-    "description": "African Birds at Walt Disney World Resort\nBirds can be found in every climate and terrain the African continent has to offer—from shrublands to woodlands to waterways.\n\nLike some of their land animal counterparts, many African birds have uniquely striking features that are stunning to behold. And you can get an up-close look at these winged wonders at Disney's Animal Kingdom theme park.\n\nJust follow the chirps and squawks to the aviary located on the Gorilla Falls Exploration Trail. It’s home to an incredible variety of colorful bird species."
+    "description": "African Birds at Walt Disney World ResortBirds can be found in every climate and terrain the African continent has to offer—from shrublands to woodlands to waterways.Like some of their land animal counterparts, many African birds have uniquely striking features that are stunning to behold. And you can get an up-close look at these winged wonders at Disney's Animal Kingdom theme park.Just follow the chirps and squawks to the aviary located on the Gorilla Falls Exploration Trail. It’s home to an incredible variety of colorful bird species."
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
     "ride_type": ["Safari"],
     "theme": "Animals",
     "wheelchair_accessible": true,
-    "description": "African Elephants at Walt Disney World Resort\nNative to Sub-Saharan Africa, African elephants live in close-knit family groups of 2 to 40 related females and their calves. The herd is led by a matriarch who has the experience—and memory—to lead them to watering holes and feeding grounds she may not have seen in decades!"
+    "description": "African Elephants at Walt Disney World ResortNative to Sub-Saharan Africa, African elephants live in close-knit family groups of 2 to 40 related females and their calves. The herd is led by a matriarch who has the experience—and memory—to lead them to watering holes and feeding grounds she may not have seen in decades!"
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@
     "ride_type": ["Safari"],
     "theme": "Animals",
     "wheelchair_accessible": true,
-    "description": "African Hogs at Walt Disney World Resort\nAs you undertake the wildlife excursion of a lifetime on the Kilimanjaro Safaris attraction at Disney’s Animal Kingdom theme park, you may spot a family of warthogs burrowing amongst the rocky outcrops and tall grasses.\n\nBe on the lookout for other relatives of hogs, like the babirusa in The Oasis Exhibits and KuneKune pigs at Affection Section.\n\nIf your travels bring you to the tranquil savannas at Disney’s Animal Kingdom Lodge, keep an eye out for the warthogs’ brightly colored cousins, the red river hogs!"
+    "description": "African Hogs at Walt Disney World ResortAs you undertake the wildlife excursion of a lifetime on the Kilimanjaro Safaris attraction at Disney’s Animal Kingdom theme park, you may spot a family of warthogs burrowing amongst the rocky outcrops and tall grasses.Be on the lookout for other relatives of hogs, like the babirusa in The Oasis Exhibits and KuneKune pigs at Affection Section.If your travels bring you to the tranquil savannas at Disney’s Animal Kingdom Lodge, keep an eye out for the warthogs’ brightly colored cousins, the red river hogs!"
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@
     "ride_type": ["Safari"],
     "theme": "Animals",
     "wheelchair_accessible": true,
-    "description": "African Lions at Walt Disney World Resort\nThough lions are called the “King of the Jungle,” they don’t actually live in jungles or rainforests. Instead, lions live on the flat, grassy savannas of Sub-Saharan Africa, from the Serengeti plains all the way to South Africa.\nUnlike most cats, lions are highly social, living in family groups (prides) that are ruled and protected by a dominant male. Prides typically consist of 20 to 30 lions, most of them closely related females and their cubs."
+    "description": "African Lions at Walt Disney World ResortThough lions are called the “King of the Jungle,” they don’t actually live in jungles or rainforests. Instead, lions live on the flat, grassy savannas of Sub-Saharan Africa, from the Serengeti plains all the way to South Africa.Unlike most cats, lions are highly social, living in family groups (prides) that are ruled and protected by a dominant male. Prides typically consist of 20 to 30 lions, most of them closely related females and their cubs."
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@
     "ride_type": ["Spinning"],
     "theme": "Pixar Pals",
     "wheelchair_accessible": false,
-    "description": "An Out-of-This-Swirl Experience\nThe cutest extraterrestrials in the galaxy have landed, and they’re taking you for a ride. Power up the saucers for an interstellar romp through space, while futuristic tunes set the mood.\n\nSpace cadets of all ages may enjoy this gentle whirl through the sky above Toy Story Land."
+    "description": "An Out-of-This-Swirl ExperienceThe cutest extraterrestrials in the galaxy have landed, and they’re taking you for a ride. Power up the saucers for an interstellar romp through space, while futuristic tunes set the mood.Space cadets of all ages may enjoy this gentle whirl through the sky above Toy Story Land."
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@
     "ride_type": ["Show"],
     "theme": "Indoors",
     "wheelchair_accessible": true,
-    "description": "An Epic Journey\nIn this dramatic production featuring 35 Audio-Animatronics figures, digital rear-projection images on a 72-foot screen and stirring patriotic songs, you’ll watch firsthand as America’s story unfolds.\n\nTake your seat in a stately Colonial theater and meet Benjamin Franklin and Mark Twain—your guides on this trip through time.\n\nWitness landmark events like landing of the Mayflower, the Boston Tea Party, the winter at Valley Forge, the penning of the Declaration of Independence, the Civil War and the Great Depression.\n\nYou’ll even encounter luminaries like Susan B. Anthony, Frederick Douglass, Thomas Jefferson, Chief Joseph and Teddy Roosevelt, among others."
+    "description": "An Epic JourneyIn this dramatic production featuring 35 Audio-Animatronics figures, digital rear-projection images on a 72-foot screen and stirring patriotic songs, you’ll watch firsthand as America’s story unfolds.Take your seat in a stately Colonial theater and meet Benjamin Franklin and Mark Twain—your guides on this trip through time.Witness landmark events like landing of the Mayflower, the Boston Tea Party, the winter at Valley Forge, the penning of the Declaration of Independence, the Civil War and the Great Depression.You’ll even encounter luminaries like Susan B. Anthony, Frederick Douglass, Thomas Jefferson, Chief Joseph and Teddy Roosevelt, among others."
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@
     "ride_type": ["Exhibit"],
     "theme": "Indoors",
     "wheelchair_accessible": true,
-    "description": "About the Collection\nExplore the artistry of American Indian communities—and learn about traditional Native influences.\n\n“Creating Tradition: Innovation and Change in American Indian Art” showcases authentic, historical Native artifacts alongside contemporary works of American Indian art—demonstrating examples of cultural traditions which have been handed down through generations.\n\nNative communities from 7 geographic regions across the United States are included in the gallery. Their art represents the richness, depth and diversity of Native cultures past and present. Among the featured artists with works on display are fashion designer Loren Aragon (Acoma Pueblo), noted doll-maker Glenda McKay (Ingalik-Athabascan) and Juanita Growing Thunder (Assiniboine Sioux) from the Growing Thunder family of Montana."
+    "description": "About the CollectionExplore the artistry of American Indian communities—and learn about traditional Native influences.“Creating Tradition: Innovation and Change in American Indian Art” showcases authentic, historical Native artifacts alongside contemporary works of American Indian art—demonstrating examples of cultural traditions which have been handed down through generations.Native communities from 7 geographic regions across the United States are included in the gallery. Their art represents the richness, depth and diversity of Native cultures past and present. Among the featured artists with works on display are fashion designer Loren Aragon (Acoma Pueblo), noted doll-maker Glenda McKay (Ingalik-Athabascan) and Juanita Growing Thunder (Assiniboine Sioux) from the Growing Thunder family of Montana."
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@
     "ride_type": ["Experience", "Action & Adventure"],
     "theme": "Outdoors",
     "wheelchair_accessible": true,
-    "description": "A Pandemonium of Parrots\nWatch in wonder as the winged stars of the show take off near the Tree of Life. Like a living kaleidoscope, the brilliantly colored birds swoop and soar over Discovery Island.\n\nKeep your peepers peeled for appearances by 6 species of South American macaw: hyacinth, green-winged, blue and gold, scarlet, blue-throated and military. The largest have an incredible wingspan of around 48 inches.\n\nGather around as our resident bird care experts unlock the secrets of these fascinating creatures—and even answer questions from the audience."
+    "description": "A Pandemonium of ParrotsWatch in wonder as the winged stars of the show take off near the Tree of Life. Like a living kaleidoscope, the brilliantly colored birds swoop and soar over Discovery Island.Keep your peepers peeled for appearances by 6 species of South American macaw: hyacinth, green-winged, blue and gold, scarlet, blue-throated and military. The largest have an incredible wingspan of around 48 inches.Gather around as our resident bird care experts unlock the secrets of these fascinating creatures—and even answer questions from the audience."
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@
     "ride_type": ["Experience"],
     "theme": "Indoors",
     "wheelchair_accessible": true,
-    "description": "Draw Your Own Disney Character\nUncover the secret of how Disney animators bring your favorite characters to life—using real life animals as inspiration!\n\nLet your creativity shine—no matter your skill level—as a talented Disney animator gives you step-by-step instruction on how to illustrate your own version of a popular Disney character.\n\nEach 25-minute class will offer something different. Featured Characters change periodically, so you can keep adding to your art collection!"
+    "description": "Draw Your Own Disney CharacterUncover the secret of how Disney animators bring your favorite characters to life—using real life animals as inspiration!Let your creativity shine—no matter your skill level—as a talented Disney animator gives you step-by-step instruction on how to illustrate your own version of a popular Disney character.Each 25-minute class will offer something different. Featured Characters change periodically, so you can keep adding to your art collection!"
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@
     "ride_type": ["Safari"],
     "theme": "Animals",
     "wheelchair_accessible": true,
-    "description": "Ankole Cattle at Walt Disney World Resort\nAnkole descended from an ancient species of cattle that lived in the Nile Valley around 4000 BC. Many centuries later, the herds migrated with their owners further south into Uganda, Rwanda and Burundi, where they gave rise to a number of African cattle breeds including the Ankole.\n\nThe Ankole’s distinctive horns can span up to 6 feet (1.8 meters) tip to tip. While they may look heavy, the horns are composed of a honeycomb structure designed to let blood circulate and cool. So instead of weighing the cattle down, the horns cool them down—like their very own air conditioners!"
+    "description": "Ankole Cattle at Walt Disney World ResortAnkole descended from an ancient species of cattle that lived in the Nile Valley around 4000 BC. Many centuries later, the herds migrated with their owners further south into Uganda, Rwanda and Burundi, where they gave rise to a number of African cattle breeds including the Ankole.The Ankole’s distinctive horns can span up to 6 feet (1.8 meters) tip to tip. While they may look heavy, the horns are composed of a honeycomb structure designed to let blood circulate and cool. So instead of weighing the cattle down, the horns cool them down—like their very own air conditioners!"
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@
     "ride_type": ["Jungle Trek"],
     "theme": "Animals",
     "wheelchair_accessible": true,
-    "description": "Asian Birds at Walt Disney World Resort\nFrom lush forests to sprawling mangroves, Asia’s diverse landscapes are home to an impressive assortment of fun high-flying friends. Each species has its own personality, feathered flair and unique cravings that include leafy greens, insects, seeds and the occasional crunchy peanut.\n\nWith over 30 species of Asian birds at Disney’s Animal Kingdom theme park, you may discover shy sorts with subtle plumage or those with calls as bright as their wing feathers. Explore the mystical trails at Maharajah Jungle Trek to find out how many of these friendly flyers you can spot."
+    "description": "Asian Birds at Walt Disney World ResortFrom lush forests to sprawling mangroves, Asia’s diverse landscapes are home to an impressive assortment of fun high-flying friends. Each species has its own personality, feathered flair and unique cravings that include leafy greens, insects, seeds and the occasional crunchy peanut.With over 30 species of Asian birds at Disney’s Animal Kingdom theme park, you may discover shy sorts with subtle plumage or those with calls as bright as their wing feathers. Explore the mystical trails at Maharajah Jungle Trek to find out how many of these friendly flyers you can spot."
   },
   {
     "id": 16,
@@ -189,7 +189,7 @@
     "ride_type": ["Experience"],
     "theme": "Animals",
     "wheelchair_accessible": true,
-    "description": "Asian Small-Clawed Otters at Walt Disney World Resort\nThe smallest of all otters, the Asian small-clawed otter is found in shallow freshwater habitats across southeast Asia. They have an acute sense of smell and they communicate by rubbing their scent glands against rocks, trees and stumps.\n\nDelight in the antics of the Asian small-clawed otter on Discovery Island Trails at Disney's Animal Kingdom theme park."
+    "description": "Asian Small-Clawed Otters at Walt Disney World ResortThe smallest of all otters, the Asian small-clawed otter is found in shallow freshwater habitats across southeast Asia. They have an acute sense of smell and they communicate by rubbing their scent glands against rocks, trees and stumps.Delight in the antics of the Asian small-clawed otter on Discovery Island Trails at Disney's Animal Kingdom theme park."
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@
     "ride_type": ["Slow Ride", "Spinning"],
     "theme": "",
     "wheelchair_accessible": false,
-    "description": "Lift Off!\nHold on tight as your retro 2-passenger spacecraft levitates high into the air, picks up speed and begins orbiting a galaxy of planets while the sights and sounds of Tomorrowland whirl by far below.\n\nYou’re the Captain Now \n\nControl how high you fly by pulling or pushing the lever inside your ship."
+    "description": "Lift Off!Hold on tight as your retro 2-passenger spacecraft levitates high into the air, picks up speed and begins orbiting a galaxy of planets while the sights and sounds of Tomorrowland whirl by far below.You’re the Captain Now Control how high you fly by pulling or pushing the lever inside your ship."
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@
     "ride_type": ["Thrill"],
     "theme": "Avatar",
     "wheelchair_accessible": true,
-    "description": "Amazing Aerial Adventures Await\nBoard your own mountain banshee and embark on a thrilling expedition, where interstellar explorers like you get an up-close look at this moon’s incredible landscape.\n\nBonding with a banshee is a crucial step in the life of a Na’vi hunter on Pandora—and flying on the back of one of these powerful creatures is an important rite of passage.\n\nNow, as a visitor to Pandora, you finally have the chance to test yourself like a Na’vi!"
+    "description": "Amazing Aerial Adventures AwaitBoard your own mountain banshee and embark on a thrilling expedition, where interstellar explorers like you get an up-close look at this moon’s incredible landscape.Bonding with a banshee is a crucial step in the life of a Na’vi hunter on Pandora—and flying on the back of one of these powerful creatures is an important rite of passage.Now, as a visitor to Pandora, you finally have the chance to test yourself like a Na’vi!"
   },
   {
     "id": 19,
@@ -225,7 +225,7 @@
     "ride_type": ["Exhibit"],
     "theme": "Indoor",
     "wheelchair_accessible": true,
-    "description": "Discover the Wonder\nExperience a call to action to protect the Earth. In a partnership with the Disney Conservation Fund, this all-new film uses in-theater effects (including wind, scents and water) to tell the story of life on our planet and why it’s vitally important to care for it."
+    "description": "Discover the WonderExperience a call to action to protect the Earth. In a partnership with the Disney Conservation Fund, this all-new film uses in-theater effects (including wind, scents and water) to tell the story of life on our planet and why it’s vitally important to care for it."
   },
   {
     "id": 20,
@@ -237,7 +237,7 @@
     "ride_type": ["Small Drops"],
     "theme": "Mickey & Friends",
     "wheelchair_accessible": false,
-    "description": "Just Plane Fun\nMake your way to an open-air barn where Goofy—known as The Great Goofini—performs his world-famous aerial stunt show. \n\nClimb aboard a wacky stunt plane and hold on tight as you take to the skies above Fantasyland. \n\nA Staggering Series of Stupendous Stunts  \nAscend to the top of a wooden observation tower. Then, brace yourself as you swoop through the busy barnyard, darting and soaring before “landing” safely during the grand finale.\n\nIt’s a goofy good time for kids—and aspiring pilots of all ages!"
+    "description": "Just Plane FunMake your way to an open-air barn where Goofy—known as The Great Goofini—performs his world-famous aerial stunt show. Climb aboard a wacky stunt plane and hold on tight as you take to the skies above Fantasyland. A Staggering Series of Stupendous Stunts  Ascend to the top of a wooden observation tower. Then, brace yourself as you swoop through the busy barnyard, darting and soaring before “landing” safely during the grand finale.It’s a goofy good time for kids—and aspiring pilots of all ages!"
   },
   {
     "id": 21,
@@ -249,7 +249,7 @@
     "ride_type": ["Jungle Trek"],
     "theme": "Animals",
     "wheelchair_accessible": true,
-    "description": "Bats at Walt Disney World Resort\nYou can find one of the world’s largest bat species—with wingspans up to 6 feet (1.8 meters) in length—at Disney’s Animal Kingdom theme park! Large flying foxes, also known as Malayan flying foxes, are bats native to Asia and named for their distinctive vulpine facial features, which include a long snout, oval ears, round eyes and reddish black fur.\n\nUnlike other bats that rely on echolocation, these amazing animals use their excellent eyesight and advanced sense of smell to track down their dinner. Their fondness for fruit enriches their surrounding environment, as they disperse the seeds they don’t consume across the forest floor, encouraging new plant growth.\n\nAfter foraging, they return to large colonies (sometimes with over 250,000 other bats) and sleep upside-down hanging from branches or high perches. Their unusual sleeping position is due to the fragile bones in their hindlegs, which are unable to support their full body weight in an upright position."
+    "description": "Bats at Walt Disney World ResortYou can find one of the world’s largest bat species—with wingspans up to 6 feet (1.8 meters) in length—at Disney’s Animal Kingdom theme park! Large flying foxes, also known as Malayan flying foxes, are bats native to Asia and named for their distinctive vulpine facial features, which include a long snout, oval ears, round eyes and reddish black fur.Unlike other bats that rely on echolocation, these amazing animals use their excellent eyesight and advanced sense of smell to track down their dinner. Their fondness for fruit enriches their surrounding environment, as they disperse the seeds they don’t consume across the forest floor, encouraging new plant growth.After foraging, they return to large colonies (sometimes with over 250,000 other bats) and sleep upside-down hanging from branches or high perches. Their unusual sleeping position is due to the fragile bones in their hindlegs, which are unable to support their full body weight in an upright position."
   },
   {
     "id": 22,
@@ -261,7 +261,7 @@
     "ride_type": ["Water Ride"],
     "theme": "Water",
     "wheelchair_accessible": false,
-    "description": "Kid-Size Slides\nChildren get to join the fun on these beginner waterslides, which are mini versions of the thrilling Storm Slides.\n\nKids can get their feet wet on 2 slides that offer gently curving downhill slopes and, of course, a final splashdown!\n\nKnow Before You Go\nBay Slides is for children under 60 inches tall. Children 10 and under must be accompanied by an adult age 18 or older.\n\nParents can meet their children at the bottom, where the Bay Slides feed into a shallow, secluded corner of Disney’s Typhoon Lagoon Surf Pool."
+    "description": "Kid-Size SlidesChildren get to join the fun on these beginner waterslides, which are mini versions of the thrilling Storm Slides.Kids can get their feet wet on 2 slides that offer gently curving downhill slopes and, of course, a final splashdown!Know Before You GoBay Slides is for children under 60 inches tall. Children 10 and under must be accompanied by an adult age 18 or older.Parents can meet their children at the bottom, where the Bay Slides feed into a shallow, secluded corner of Disney’s Typhoon Lagoon Surf Pool."
   },
   {
     "id": 23,
@@ -273,7 +273,7 @@
     "ride_type": ["Stage Show"],
     "theme": "Parades & Shows",
     "wheelchair_accessible": true,
-    "description":"Be Our Guest\nThe heartwarming tale of Belle and the Beast swirls to life in this lush stage performance. With colorful costumes, gorgeous scenery and the songs you’ve come to love, this sumptuous show will sweep you away—all over again!"
+    "description":"Be Our GuestThe heartwarming tale of Belle and the Beast swirls to life in this lush stage performance. With colorful costumes, gorgeous scenery and the songs you’ve come to love, this sumptuous show will sweep you away—all over again!"
   },
   {
     "id": 24,
@@ -285,7 +285,7 @@
     "ride_type": ["Show"],
     "theme": "Parades & Shows",
     "wheelchair_accessible": true,
-    "description": "Lend Us Your Voice\nDon’t miss this enchanting twist on a timeless tale narrated by none other than Mrs. Potts herself—Angela Lansbury. As Belle and the Beast’s love story unfolds before your eyes, tap your toes and sing along to the songs you know and love like Be Our Guest and Gaston.\nTales As Old As Time: French Storytelling on Stage and Screen\nStep into some of the world’s most enchanting stories. At the Palais du Cinema, you’ll explore 6 distinct gallery cases honoring the costumes, music and artwork that brought French literature to life through cinema, theater, ballet and opera. Catch a glimpse of how these stories inspired artists from around the globe, including those who created such timeless Disney classics as Sleeping Beauty, Cinderella and—of course—Beauty and the Beast."
+    "description": "Lend Us Your VoiceDon’t miss this enchanting twist on a timeless tale narrated by none other than Mrs. Potts herself—Angela Lansbury. As Belle and the Beast’s love story unfolds before your eyes, tap your toes and sing along to the songs you know and love like Be Our Guest and Gaston.Tales As Old As Time: French Storytelling on Stage and ScreenStep into some of the world’s most enchanting stories. At the Palais du Cinema, you’ll explore 6 distinct gallery cases honoring the costumes, music and artwork that brought French literature to life through cinema, theater, ballet and opera. Catch a glimpse of how these stories inspired artists from around the globe, including those who created such timeless Disney classics as Sleeping Beauty, Cinderella and—of course—Beauty and the Beast."
   },
   {
     "id": 25,
@@ -297,7 +297,7 @@
     "ride_type": ["Thrill Ride", "Small Drops"],
     "theme": "",
     "wheelchair_accessible": false,
-    "description": "The Wildest Ride in the Wilderness\nLegend has it that soon after gold was first discovered here in the 1850s, eerie things began to happen. Trains would take off and race through tunnels—by themselves.\n\nAfter you arrive at the legendary Big Thunder Mining Company, descend into an abandoned mine shaft and board your train. As you enter the cursed cavern, the engine speeds up along the rickety track. Dodge exploding dynamite and falling boulders as you swoop around turns, drop into canyons and dart through the mysterious ghost town of Tumbleweed.\n\nYour rip-roaring adventure proves that some legends are true. You’re sure to have a real blast!"
+    "description": "The Wildest Ride in the WildernessLegend has it that soon after gold was first discovered here in the 1850s, eerie things began to happen. Trains would take off and race through tunnels—by themselves.After you arrive at the legendary Big Thunder Mining Company, descend into an abandoned mine shaft and board your train. As you enter the cursed cavern, the engine speeds up along the rickety track. Dodge exploding dynamite and falling boulders as you swoop around turns, drop into canyons and dart through the mysterious ghost town of Tumbleweed.Your rip-roaring adventure proves that some legends are true. You’re sure to have a real blast!"
   },
   {
     "id": 26,
@@ -309,7 +309,7 @@
     "ride_type": ["Exhibit"],
     "theme": "Indoor",
     "wheelchair_accessible": true,
-    "description": "Adorable Art on Display\nThe current Bijutsu-kan Gallery show, “Kawaii: Japan’s Cute Culture,” takes a look at this pop-culture phenomenon that’s swept the globe. \n\nKawaii means cute or loveable—and represents an obsession with all things darling, like Hello Kitty, which is included in the exhibit. You’ll discover how kawaii is rooted deep in Japan’s Shinto past and how it’s become a core aspect of Japanese culture—and a new form of self-expression.\n\nTour a replica Tokyo apartment of a kawaii superfan bursting with all things precious—and prepare for major cuteness overload. "
+    "description": "Adorable Art on DisplayThe current Bijutsu-kan Gallery show, “Kawaii: Japan’s Cute Culture,” takes a look at this pop-culture phenomenon that’s swept the globe. Kawaii means cute or loveable—and represents an obsession with all things darling, like Hello Kitty, which is included in the exhibit. You’ll discover how kawaii is rooted deep in Japan’s Shinto past and how it’s become a core aspect of Japanese culture—and a new form of self-expression.Tour a replica Tokyo apartment of a kawaii superfan bursting with all things precious—and prepare for major cuteness overload. "
   },
   {
     "id": 27,
@@ -321,7 +321,7 @@
     "ride_type": ["Experience"],
     "theme": "Outdoors",
     "wheelchair_accessible": true,
-    "description": "Fun with Fossils\nA world of prehistoric marvels awaits! Kids ages 10 and under are invited to clamber across rope bridges, climb through mysterious caves and hurl down twisting slides.\n\nAt the dig site, help excavate fossils from a Triceratops and a Tyrannosaurus Rex. Discover lots more dino-sized surprises as you have a blast digging up the past.\n\nParents of busy explorers can enjoy a shaded seating area at the dig site, where large fans help cool things down."
+    "description": "Fun with FossilsA world of prehistoric marvels awaits! Kids ages 10 and under are invited to clamber across rope bridges, climb through mysterious caves and hurl down twisting slides.At the dig site, help excavate fossils from a Triceratops and a Tyrannosaurus Rex. Discover lots more dino-sized surprises as you have a blast digging up the past.Parents of busy explorers can enjoy a shaded seating area at the dig site, where large fans help cool things down."
   },
   {
     "id": 28,
@@ -333,7 +333,7 @@
     "ride_type": ["Interactive"],
     "theme": "Indoors",
     "wheelchair_accessible": true,
-    "description": "He Is a Nice Shark\nBruce’s Shark World is inspired by the Disney and Pixar film Finding Nemo. Here, you can test your undersea expertise with quizzes from Nemo’s teacher, Mr. Ray. \n\nDon’t forget to pose for a photo inside the toothy grin of Bruce, the Shark! He promises not to bite—fish are friends, not food. Mostly."
+    "description": "He Is a Nice SharkBruce’s Shark World is inspired by the Disney and Pixar film Finding Nemo. Here, you can test your undersea expertise with quizzes from Nemo’s teacher, Mr. Ray. Don’t forget to pose for a photo inside the toothy grin of Bruce, the Shark! He promises not to bite—fish are friends, not food. Mostly."
   },
   {
     "id": 29,
@@ -345,7 +345,7 @@
     "ride_type": ["Experience"],
     "theme": "Animals",
     "wheelchair_accessible": true,
-    "description": "Butterflies can be found on every continent except Antarctica, in a wide range of habitats. You’ll find butterflies in wetlands, lowlands, temperate and tropical forests, mountains, farmlands—even in your own backyard!\n\nButterflies aren’t just beautiful, they’re an important part of the ecosystem. Almost a third of the foods we eat come from plants that depend on butterflies and other pollinators.\n\nMany of our parks and Disney Resort hotels grow flower gardens specially designed to attract local butterflies—and it’s working! Walt Disney World Resort is home to more than 70 butterfly species."
+    "description": "Butterflies can be found on every continent except Antarctica, in a wide range of habitats. You’ll find butterflies in wetlands, lowlands, temperate and tropical forests, mountains, farmlands—even in your own backyard!Butterflies aren’t just beautiful, they’re an important part of the ecosystem. Almost a third of the foods we eat come from plants that depend on butterflies and other pollinators.Many of our parks and Disney Resort hotels grow flower gardens specially designed to attract local butterflies—and it’s working! Walt Disney World Resort is home to more than 70 butterfly species."
   },
   {
     "id": 30,
@@ -357,7 +357,7 @@
     "ride_type": ["Slow Ride", "Spinning"],
     "theme": "Pixar Pals",
     "wheelchair_accessible": true,
-    "description": "Not Today, Zurg!\nBuzz Lightyear’s arch-nemesis from Toy Story 2 is stealing batteries from helpless toys to power a new weapon of destruction. Become a Junior Space Ranger and help stop Zurg!\n\nBoard your XP-37 star cruiser and voyage deep into the Gamma Quadrant, where you’ll take aim at the glowing “Z” targets with your infrared laser cannon. Use your cruiser’s joystick to spin a full 360 degrees, so you can blast all the targets in sight.\n\nDo you have what it takes to stop Zurg and his rampaging robot army before it’s too late? The fate of the universe is in your hands!"
+    "description": "Not Today, Zurg!Buzz Lightyear’s arch-nemesis from Toy Story 2 is stealing batteries from helpless toys to power a new weapon of destruction. Become a Junior Space Ranger and help stop Zurg!Board your XP-37 star cruiser and voyage deep into the Gamma Quadrant, where you’ll take aim at the glowing “Z” targets with your infrared laser cannon. Use your cruiser’s joystick to spin a full 360 degrees, so you can blast all the targets in sight.Do you have what it takes to stop Zurg and his rampaging robot army before it’s too late? The fate of the universe is in your hands!"
   },
   {
     "id": 31,
@@ -369,7 +369,7 @@
     "ride_type": ["Experience"],
     "theme": "Indoors",
     "wheelchair_accessible": true,
-    "description": "Sweeping Scenic Views\nExplore Canada in a newly updated edition of the classic, 12-minute Epcot Circle-Vision 360 presentation."
+    "description": "Sweeping Scenic ViewsExplore Canada in a newly updated edition of the classic, 12-minute Epcot Circle-Vision 360 presentation."
   },
   {
     "id": 32,
@@ -381,7 +381,7 @@
     "ride_type": ["Water Ride"],
     "theme": "Water",
     "wheelchair_accessible": true,
-    "description": "Choo Much Fun\nCome and see the coolest train in all the land! Kids can play and splash around this “wild” circus train—while parents relax, unwind and enjoy a cool break. \n\nCasey Jr. lets off billows of refreshing \"steam,” while circus animals—including monkeys, elephants and camels—may spray their visitors with water."
+    "description": "Choo Much FunCome and see the coolest train in all the land! Kids can play and splash around this “wild” circus train—while parents relax, unwind and enjoy a cool break. Casey Jr. lets off billows of refreshing \"steam,” while circus animals—including monkeys, elephants and camels—may spray their visitors with water."
   },
   {
     "id": 33,
@@ -393,7 +393,7 @@
     "ride_type": ["Show"],
     "theme": "Parades & Shows",
     "wheelchair_accessible": true,
-    "description": "Meet a Piano Player Extraordinaire\nAs you walk down Main Street U.S.A., a fanciful surprise awaits—a live outdoor piano performance. \n\nFeaturing swell ragtime tunes from a bygone era, these syncopated styling will have you tapping your toes. When folks start to gather around, don’t be surprised if they start to croon along. Between ditties, this proficient pianist may entertain you with one-liners and zingers.\n\nThis ivory tickler is a real hoot!"
+    "description": "Meet a Piano Player ExtraordinaireAs you walk down Main Street U.S.A., a fanciful surprise awaits—a live outdoor piano performance. Featuring swell ragtime tunes from a bygone era, these syncopated styling will have you tapping your toes. When folks start to gather around, don’t be surprised if they start to croon along. Between ditties, this proficient pianist may entertain you with one-liners and zingers.This ivory tickler is a real hoot!"
   },
   {
     "id": 34,
@@ -405,7 +405,7 @@
     "ride_type": ["Water Ride", "Slow Ride"],
     "theme": "Water",
     "wheelchair_accessible": false,
-    "description": "Go with the Flow\nBob along through refreshing cool mists, shady grottoes, thundering waterfalls, overhead rope bridges and lush rainforest landscapes on your gentle journey through the cavernous tunnel carved into Mount Mayday.\n\nGuests can pick up an inner tube at any of the 5 landings along the 2,000-foot-long route and ease into the continuous, flowing river that winds all the way around Disney’s Typhoon Lagoon water park."
+    "description": "Go with the FlowBob along through refreshing cool mists, shady grottoes, thundering waterfalls, overhead rope bridges and lush rainforest landscapes on your gentle journey through the cavernous tunnel carved into Mount Mayday.Guests can pick up an inner tube at any of the 5 landings along the 2,000-foot-long route and ease into the continuous, flowing river that winds all the way around Disney’s Typhoon Lagoon water park."
   },
 
   {
@@ -418,7 +418,7 @@
     "ride_type": ["Slow Ride"],
     "theme": "Outdoors",
     "wheelchair_accessible": true,
-    "description": "Need a Lift?\nEvery ski resort has a chairlift to ferry Guests up the mountain, and Disney’s Blizzard Beach water park is no exception! This slow-moving experience is an effortless way to access the entrance to attractions like:\n\nSummit Plummet – The most thrilling waterslide at Disney’s Blizzard Beach water park, with a 120-foot long, 12-story drop.\nSlush Gusher – A tamer, 90-foot-long waterslide for those not quite ready to take the “big plunge.”\nTeamboat Springs – A family-style whitewater raft ride that fits up to 6 Guests per inner tube.\nBeach umbrella canopies provide shade as you ride up."
+    "description": "Need a Lift?Every ski resort has a chairlift to ferry Guests up the mountain, and Disney’s Blizzard Beach water park is no exception! This slow-moving experience is an effortless way to access the entrance to attractions like:Summit Plummet – The most thrilling waterslide at Disney’s Blizzard Beach water park, with a 120-foot long, 12-story drop.Slush Gusher – A tamer, 90-foot-long waterslide for those not quite ready to take the “big plunge.”Teamboat Springs – A family-style whitewater raft ride that fits up to 6 Guests per inner tube.Beach umbrella canopies provide shade as you ride up."
   },
   {
     "id": 36,
@@ -430,7 +430,7 @@
     "ride_type": ["Show"],
     "theme": "Parades & Shows",
     "wheelchair_accessible": true,
-    "description": "Tranquil and Stirring\nIn the Anandapur village at Disney’s Animal Kingdom park, discover exotic tunes that become increasingly mesmerizing. Feel as if you’re transported to a new place through the sounds of charming Indian instruments.\n\nThe nimble fingers of Chakranadi play traditional Indian music and seasonal tunes— during Disney’s “Festival of All Seasons” celebration. Their rhythms are complex and wildly entertaining.\n\nLike to explore new places? Don’t miss this exotic, musical voyage to India!"
+    "description": "Tranquil and StirringIn the Anandapur village at Disney’s Animal Kingdom park, discover exotic tunes that become increasingly mesmerizing. Feel as if you’re transported to a new place through the sounds of charming Indian instruments.The nimble fingers of Chakranadi play traditional Indian music and seasonal tunes— during Disney’s “Festival of All Seasons” celebration. Their rhythms are complex and wildly entertaining.Like to explore new places? Don’t miss this exotic, musical voyage to India!"
   },
   {
     "id": 37,
@@ -442,7 +442,7 @@
     "ride_type": ["Experience"],
     "theme": "Disney Princesses",
     "wheelchair_accessible": true,
-    "description": "A Fairytale Come to Life\nCinderella Castle welcomes you to a magical world where dreams come true. The 189-foot landmark boasts lofty spires and ornate turrets and is the gateway to Fantasyland.\n\nSurrounded by a tranquil moat, the grounds offer an array of picture-perfect photo ops. Explore lush lawns, gardens and Cinderella’s own wishing well. \n\nInside the Castle\nView exquisite handcrafted glass mosaics that tell the classic story of Cinderella’s rise from orphan to princess.\n\nThen, enjoy an elegant meal at Cinderella’s Royal Table. Be sure to reserve a table in advance for this one-of-a-kind dining experience."
+    "description": "A Fairytale Come to LifeCinderella Castle welcomes you to a magical world where dreams come true. The 189-foot landmark boasts lofty spires and ornate turrets and is the gateway to Fantasyland.Surrounded by a tranquil moat, the grounds offer an array of picture-perfect photo ops. Explore lush lawns, gardens and Cinderella’s own wishing well. Inside the CastleView exquisite handcrafted glass mosaics that tell the classic story of Cinderella’s rise from orphan to princess.Then, enjoy an elegant meal at Cinderella’s Royal Table. Be sure to reserve a table in advance for this one-of-a-kind dining experience."
   },
   {
     "id": 38,
@@ -466,7 +466,7 @@
     "ride_type": ["Experience"],
     "theme": "Indoors",
     "wheelchair_accessible": true,
-    "description": "Go Wild!\nExplore a menagerie of furr-ific animal activities and experiences, including: \n\nVeterinary Treatment Room\nGet a close-up look at the place we care for the animals—and even glimpse a procedure in progress. \nNutrition Center\nWatch experts prepare meals for the park residents. \nAmphibian, Reptile and Invertebrate Windows\nCreep over to see some tarantulas, scorpions, millipedes and snakes. \nScience Center\nCheck out what our resident scientists are working on. \n"
+    "description": "Go Wild!Explore a menagerie of furr-ific animal activities and experiences, including: Veterinary Treatment RoomGet a close-up look at the place we care for the animals—and even glimpse a procedure in progress. Nutrition CenterWatch experts prepare meals for the park residents. Amphibian, Reptile and Invertebrate WindowsCreep over to see some tarantulas, scorpions, millipedes and snakes. Science CenterCheck out what our resident scientists are working on. "
   },
   {
     "id": 40,
@@ -478,7 +478,7 @@
     "ride_type": ["Experience"],
     "theme": "Animals",
     "wheelchair_accessible": true,
-    "description": "Coral Reefs at Walt Disney World Resort\nCoral reefs are so rich in life that scientists call them the “rainforests of the sea.” You can explore the wondrous biodiversity of a living coral reef and one of the largest artificial ocean environments in the world at The Seas with Nemo & Friends at EPCOT.\n\nCoral Reefs in the Wild\nLiving coral reefs are diverse ecosystems built by large colonies of tiny coral polyps. Coral reefs not only support a vast array of marine organisms, but they also help provide natural protective barriers that guard against coastal erosion."
+    "description": "Coral Reefs at Walt Disney World ResortCoral reefs are so rich in life that scientists call them the “rainforests of the sea.” You can explore the wondrous biodiversity of a living coral reef and one of the largest artificial ocean environments in the world at The Seas with Nemo & Friends at EPCOT.Coral Reefs in the WildLiving coral reefs are diverse ecosystems built by large colonies of tiny coral polyps. Coral reefs not only support a vast array of marine organisms, but they also help provide natural protective barriers that guard against coastal erosion."
   },
   {
     "id": 41,
@@ -490,7 +490,7 @@
     "ride_type": ["Experience"],
     "theme": "Outdoors",
     "wheelchair_accessible": true,
-    "description": "Cotton-Top Tamarins at Walt Disney World Resort\nMarvel at the amazing athletic abilities of the tiny-but-mighty cotton-top tamarin! Weighing just one pound (0.5 kilogram), this pint-sized primate can leap 15 feet (4.6 meters) from a stationary branch.\n\nIn the wild, cotton-top tamarins are found only in the tropical forests of northwestern Colombia in South America, where they live high in the treetops.\n\nDelight in the antics of the tiny cotton-top tamarin on Discovery Island at Disney’s Animal Kingdom theme park."
+    "description": "Cotton-Top Tamarins at Walt Disney World ResortMarvel at the amazing athletic abilities of the tiny-but-mighty cotton-top tamarin! Weighing just one pound (0.5 kilogram), this pint-sized primate can leap 15 feet (4.6 meters) from a stationary branch.In the wild, cotton-top tamarins are found only in the tropical forests of northwestern Colombia in South America, where they live high in the treetops.Delight in the antics of the tiny cotton-top tamarin on Discovery Island at Disney’s Animal Kingdom theme park."
   },
   {
     "id": 42,
@@ -502,7 +502,7 @@
     "ride_type": ["Stage Show"],
     "theme": "Parades & Shows",
     "wheelchair_accessible": true,
-    "description": "This Hootenanny is a Real Hoot\nStep inside the rustic theater known as Grizzly Hall and take your seat before the lights dim. Clap along as 18 Audio-Animatronics hillbilly bears play and sing during this 16-minute, foot-stompin’ cele-bear-tion. You’ll hear a medley of original and classic tunes—all performed by the zaniest critters in the woods. \n\nOverflowing with humor, heart and a few surprises, this crowd-pleasing show features a down-home, southern sensibility you and your cubs will love."
+    "description": "This Hootenanny is a Real HootStep inside the rustic theater known as Grizzly Hall and take your seat before the lights dim. Clap along as 18 Audio-Animatronics hillbilly bears play and sing during this 16-minute, foot-stompin’ cele-bear-tion. You’ll hear a medley of original and classic tunes—all performed by the zaniest critters in the woods. Overflowing with humor, heart and a few surprises, this crowd-pleasing show features a down-home, southern sensibility you and your cubs will love."
   },
   {
     "id": 43,
@@ -514,7 +514,7 @@
     "ride_type": ["Water Ride"],
     "theme": "Water",
     "wheelchair_accessible": false,
-    "description": "An Arctic Adventure\nGrab an inner tube and paddle gently down the stream as you glide through mysterious caves and illuminated grottoes, under bridges and past a lush green forest. Bask in the refreshing spring water that’s made its way down Mount Gushmore—and look out for bubbling geysers, waterfalls and leaky pipes along the way.\n\nPay a quick visit to Ice Gator, who’s at home sick with a cold. Just watch out for his sneeze!\n\nGuest can pick up an inner tube at any of the 7 landings along the route."
+    "description": "An Arctic AdventureGrab an inner tube and paddle gently down the stream as you glide through mysterious caves and illuminated grottoes, under bridges and past a lush green forest. Bask in the refreshing spring water that’s made its way down Mount Gushmore—and look out for bubbling geysers, waterfalls and leaky pipes along the way.Pay a quick visit to Ice Gator, who’s at home sick with a cold. Just watch out for his sneeze!Guest can pick up an inner tube at any of the 7 landings along the route."
   },
   {
     "id": 44,
@@ -526,7 +526,7 @@
     "ride_type": ["Small Drops", "Water Rides", "Thrill Rides"],
     "theme": "Water",
     "wheelchair_accessible": false,
-    "description": "Get Your Juices Flowing\nEnter an abandoned fruit-processing plant and prepare for a thrilling “water coaster” ride down a 400-foot-long tube slide.\n\nFind a partner and choose from 3 “fruit chutes”—the Pineapple Plunger, Coconut Crusher or Banana Blaster—or go bananas and crush it solo!\n\nSlide down sudden drops and snake around sharp turns through darkened and open sections. Propelled by powerful water jets, your raft takes you on a wild ride through uphill climbs—and surprise after surprise.\n\nFinally, you’ll take the plunge and skim across Hideaway Bay!"
+    "description": "Get Your Juices FlowingEnter an abandoned fruit-processing plant and prepare for a thrilling “water coaster” ride down a 400-foot-long tube slide.Find a partner and choose from 3 “fruit chutes”—the Pineapple Plunger, Coconut Crusher or Banana Blaster—or go bananas and crush it solo!Slide down sudden drops and snake around sharp turns through darkened and open sections. Propelled by powerful water jets, your raft takes you on a wild ride through uphill climbs—and surprise after surprise.Finally, you’ll take the plunge and skim across Hideaway Bay!"
   },
   {
     "id": 45,
@@ -538,7 +538,7 @@
     "ride_type": ["Show"],
     "theme": "Parades & Shows",
     "wheelchair_accessible": true,
-    "description": "The Finest Foursome Around\nWearing colorful pinstripe suits, straw hats, spats and taps, this 4-man group performs a scintillating selection of a cappella American standards and Disney classics, including: \n\n“Yankee Doodle Dandy” \n“Strolling Through the Park” \n“Mr. Sandman” \n“If You’re Happy and You Know It” \n“Zip-a-Dee Doo Dah” "
+    "description": "The Finest Foursome AroundWearing colorful pinstripe suits, straw hats, spats and taps, this 4-man group performs a scintillating selection of a cappella American standards and Disney classics, including: “Yankee Doodle Dandy” “Strolling Through the Park” “Mr. Sandman” “If You’re Happy and You Know It” “Zip-a-Dee Doo Dah” "
   },
   {
     "id": 46,
@@ -550,7 +550,7 @@
     "ride_type": ["Experience"],
     "theme": "Outdoors",
     "wheelchair_accessible": true,
-    "description": "A T-Rex Named Sue\nStand in the shadow of an incredible replica of the largest and most complete T-Rex fossil ever found. Pose for pictures with the meticulously detailed, 13-foot tall, 40-foot long prehistoric superstar. \n\nOnly 67 million years young, Sue was discovered in the Black Hills of South Dakota in 1990. Named after fossil hunter Sue Hendrickson, the skeleton is one of the most famous fossil finds of the 20th century. It’s also the most complete, with over 90% of her bones found and excavated. "
+    "description": "A T-Rex Named SueStand in the shadow of an incredible replica of the largest and most complete T-Rex fossil ever found. Pose for pictures with the meticulously detailed, 13-foot tall, 40-foot long prehistoric superstar. Only 67 million years young, Sue was discovered in the Black Hills of South Dakota in 1990. Named after fossil hunter Sue Hendrickson, the skeleton is one of the most famous fossil finds of the 20th century. It’s also the most complete, with over 90% of her bones found and excavated. "
   },
   {
     "id": 47,
@@ -562,7 +562,7 @@
     "ride_type": ["Thrill Ride", "Small Drops"],
     "theme": "",
     "wheelchair_accessible": false,
-    "description": "A Race Against Time\nA paleontologist recruits you for a secret mission to bring a 3.5-ton Iguanadon back to the present. There’s just one problem—the giant meteor that wiped out life on Earth is on the way! \n\nBoard a rugged Time Rover vehicle and set off on a thrilling adventure through a primeval forest filled with life-like dinosaurs. Careen through unpredictable hairpin turns. Dart around a fearsome Velociraptor hunting for prey. Avoid the clutches of a Cearadactylus soaring overhead!\n\nAs the clock counts down, fiery meteors crash down around you. Will you make your escape before the dinosaurs—and you—become extinct?"
+    "description": "A Race Against TimeA paleontologist recruits you for a secret mission to bring a 3.5-ton Iguanadon back to the present. There’s just one problem—the giant meteor that wiped out life on Earth is on the way! Board a rugged Time Rover vehicle and set off on a thrilling adventure through a primeval forest filled with life-like dinosaurs. Careen through unpredictable hairpin turns. Dart around a fearsome Velociraptor hunting for prey. Avoid the clutches of a Cearadactylus soaring overhead!As the clock counts down, fiery meteors crash down around you. Will you make your escape before the dinosaurs—and you—become extinct?"
   },
   {
     "id": 48,
@@ -574,7 +574,7 @@
     "ride_type": ["Experience"],
     "theme": "Outdoors",
     "wheelchair_accessible": true,
-    "description": "Take a Walk on the Wild Side\nMeander down serene paths, cross wooden foot bridges and journey through cave-like tunnels on a self-guided trek below the great tree.\n\nAlong the way, spot captivating creatures from convenient observation stations amid a backdrop of picturesque trees and plants."
+    "description": "Take a Walk on the Wild SideMeander down serene paths, cross wooden foot bridges and journey through cave-like tunnels on a self-guided trek below the great tree.Along the way, spot captivating creatures from convenient observation stations amid a backdrop of picturesque trees and plants."
   },
   {
     "id": 49,
@@ -586,7 +586,7 @@
     "ride_type": ["Parade"],
     "theme": "Parades & Shows",
     "wheelchair_accessible": true,
-    "description": "Sing and Dance with Friends\nJoin us along the parade route—from Frontierland through Liberty Square down Main Street, U.S.A.—as an exciting lineup of Characters embark on a journey through park.\n\nDisney Adventure Friends Cavalcade features the most Characters of any cavalcade to date, including Mirabel from Encanto and Miguel from Coco—plus so many more!"
+    "description": "Sing and Dance with FriendsJoin us along the parade route—from Frontierland through Liberty Square down Main Street, U.S.A.—as an exciting lineup of Characters embark on a journey through park.Disney Adventure Friends Cavalcade features the most Characters of any cavalcade to date, including Mirabel from Encanto and Miguel from Coco—plus so many more!"
   },
   {
     "id": 50,
@@ -598,10 +598,10 @@
     "ride_type": ["Experience"],
     "theme": "Indoors",
     "wheelchair_accessible": true,
-    "description": "Short and Sweet\nDon a pair of 3D glasses and settle in for the 18-minute festival, featuring 3 dazzling short films and some incredible in-theater effects.\n\nBefore entering the main theater, be sure to take a look at the exhibits showcasing the creative process behind these beloved stories and characters."
+    "description": "Short and SweetDon a pair of 3D glasses and settle in for the 18-minute festival, featuring 3 dazzling short films and some incredible in-theater effects.Before entering the main theater, be sure to take a look at the exhibits showcasing the creative process behind these beloved stories and characters."
   },
   {
-    "id": 52,
+    "id": 51,
     "image_URL": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/630/354/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/fireworks/0923ZP_0981KP_xak-16x9.jpg?2022-03-10T19:20:05+00:00",
     "attraction_name": "Disney Enchantment",
     "park": "Magic Kingdom",
@@ -610,10 +610,10 @@
     "ride_type": ["Show"],
     "theme": "Parades & Shows",
     "wheelchair_accessible": true,
-    "description": "An Incredible Journey Awaits\nWatch in awe as Cinderella Castle comes to life with magical effects that—for the first time ever—extend down Main Street, U.S.A.! Plus, enjoy dazzling lighting that illuminates the Castle courtyard and stunning fireworks that light up the night sky. All the while, classic and reimagined Disney songs will sweep you up into the adventure of a lifetime, along with an original song by 7-time Grammy award-winning songwriter Philip Lawrence."
+    "description": "An Incredible Journey AwaitsWatch in awe as Cinderella Castle comes to life with magical effects that—for the first time ever—extend down Main Street, U.S.A.! Plus, enjoy dazzling lighting that illuminates the Castle courtyard and stunning fireworks that light up the night sky. All the while, classic and reimagined Disney songs will sweep you up into the adventure of a lifetime, along with an original song by 7-time Grammy award-winning songwriter Philip Lawrence."
   },
   {
-    "id": 53,
+    "id": 52,
     "image_URL": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/630/354/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/mickeys-magical-friendship-faire/Mickey_facing_front_New-16x9.jpg?2022-03-10T19:33:14+00:00",
     "attraction_name": "Disney Festival of Fantasy Parade",
     "park": "Magic Kingdom",
@@ -622,10 +622,10 @@
     "ride_type": ["Parades"],
     "theme": "Parades & Shows",
     "wheelchair_accessible": true,
-    "description": "Magic Marches Down the Street\nThe unbridled enchantment and vivid pageantry of Fantasyland—and its many inhabitants—winds its way through the park in a thrilling parade spectacular. The dazzling mix of floats, motion and original music will keep you humming along for days to come.\n\nSee Disney Characters and Much More\nBe a part of this grand gala, with spectacular, state-of-the-art floats starring some of your favorite Disney Characters from Tangled, Peter Pan and The Little Mermaid. It’s a festival of fun for everyone!"
+    "description": "Magic Marches Down the StreetThe unbridled enchantment and vivid pageantry of Fantasyland—and its many inhabitants—winds its way through the park in a thrilling parade spectacular. The dazzling mix of floats, motion and original music will keep you humming along for days to come.See Disney Characters and Much MoreBe a part of this grand gala, with spectacular, state-of-the-art floats starring some of your favorite Disney Characters from Tangled, Peter Pan and The Little Mermaid. It’s a festival of fun for everyone!"
   },
   {
-    "id": 54,
+    "id": 53,
     "image_URL": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/disney-world/entertainment/hollywood-studios/new-entertainment/dinsey-jurnior-play-dance-16x9.jpg?1659996744465",
     "attraction_name": "Disney Junior Play and Dance!",
     "park": "Hollywood Studios",
@@ -634,10 +634,10 @@
     "ride_type": ["Shows"],
     "theme": "Parades & Shows",
     "wheelchair_accessible": true,
-    "description": "Dance and Sing Along!\nShow off your moves, catch bubbles and laugh yourself silly at a fun-filled party featuring favorite Disney Junior Characters and music.\n\nGet in the groove on the dance floor as a DJ starts the celebration—playing songs you know from the shows you love.\n\nJoin Doc McStuffins and cure your dance fever during a fun-filled, feel-good musical number. Check out Timon showing off his best Hula dancing and other moves learned from his time in the Pridelands. Plus, don’t miss your chance to get down and boo-gie with everyone’s favorite vampire girl, Vampirina.\n\nFinally, Mickey Mouse arrives to teach you his best Roadster Racer moves––direct from Hot Dog Hills."
+    "description": "Dance and Sing Along!Show off your moves, catch bubbles and laugh yourself silly at a fun-filled party featuring favorite Disney Junior Characters and music.Get in the groove on the dance floor as a DJ starts the celebration—playing songs you know from the shows you love.Join Doc McStuffins and cure your dance fever during a fun-filled, feel-good musical number. Check out Timon showing off his best Hula dancing and other moves learned from his time in the Pridelands. Plus, don’t miss your chance to get down and boo-gie with everyone’s favorite vampire girl, Vampirina.Finally, Mickey Mouse arrives to teach you his best Roadster Racer moves––direct from Hot Dog Hills."
   },
   {
-    "id": 55,
+    "id": 54,
     "image_URL": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/630/354/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/Mickey_50_Flotilla-16x9.jpg?2021-10-19T18:02:29+00:00",
     "attraction_name": "Disney's Animal Kingdom Entertainment",
     "park": "Animal Kingdom",
@@ -646,10 +646,10 @@
     "ride_type": ["Shows, Experiences"],
     "theme": "Mickey & Friends",
     "wheelchair_accessible": true,
-    "description": "Meet Favorite Disney Pals at Adventurers Outpost\nSee world travelers Mickey and Minnie Mouse at their exploration headquarters at Disney’s Animal Kingdom theme park.\nMickey and Friends Flotilla\nReady for a brand-new adventure, Mickey and his friends set sail on the Discovery River.\nDiscovery Island Drummers Flotilla\nThe Discovery Island Drummers take their music to the water, performing live as they sail around the Discovery River.\nDiscovery River Character Cruise\nCatch a glimpse of Characters from Disney’s Pocahontas or Disney’s The Lion King as they float along the Discovery River.\nAdventure Flotilla\nSee feathered friends Scrooge McDuck and Launchpad McQuack on their adventurous voyage along the Discovery River.\nAdventure Flotilla – Up\nWave to Russell and Dug as they sail along the Discovery River—in true Wilderness Explorer style."
+    "description": "Meet Favorite Disney Pals at Adventurers OutpostSee world travelers Mickey and Minnie Mouse at their exploration headquarters at Disney’s Animal Kingdom theme park.Mickey and Friends FlotillaReady for a brand-new adventure, Mickey and his friends set sail on the Discovery River.Discovery Island Drummers FlotillaThe Discovery Island Drummers take their music to the water, performing live as they sail around the Discovery River.Discovery River Character CruiseCatch a glimpse of Characters from Disney’s Pocahontas or Disney’s The Lion King as they float along the Discovery River.Adventure FlotillaSee feathered friends Scrooge McDuck and Launchpad McQuack on their adventurous voyage along the Discovery River.Adventure Flotilla – UpWave to Russell and Dug as they sail along the Discovery River—in true Wilderness Explorer style."
   },
   {
-    "id": 56,
+    "id": 55,
     "image_URL": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/disneys-ducktales-world-showcase-adventure/1201ZO_0549MS-16x9.jpg?2022-12-14T18:35:25+00:00",
     "attraction_name": "Disney’s DuckTales World Showcase Adventure",
     "park": "EPCOT",
@@ -658,10 +658,10 @@
     "ride_type": ["Experience"],
     "theme": "Mickey & Friends",
     "wheelchair_accessible": true,
-    "description": "Seek the 7 Plunders of the World!\nJoin Scrooge McDuck, his nephews and friends as they travel around EPCOT World Showcase on a quacky quest to find the priceless 7 Lost Magic Treasures—and return them to their rightful owners.\n\nThe famous Mr. McDuck is sending you and his irrepressible relatives to keep these priceless artifacts from getting into the wrong hands! Life is better when we explore the world around us. The treasures are hidden in each country pavilion"
+    "description": "Seek the 7 Plunders of the World!Join Scrooge McDuck, his nephews and friends as they travel around EPCOT World Showcase on a quacky quest to find the priceless 7 Lost Magic Treasures—and return them to their rightful owners.The famous Mr. McDuck is sending you and his irrepressible relatives to keep these priceless artifacts from getting into the wrong hands! Life is better when we explore the world around us. The treasures are hidden in each country pavilion"
   },
   {
-    "id": 57,
+    "id": 56,
     "image_URL": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/disney-world/destinations/animal-kingdom/donalds-dino-bash-characters-16x9.jpg?1662993870247",
     "attraction_name": "Donald's Dino-Bash!",
     "park": "Animal Kingdom",
@@ -670,10 +670,10 @@
     "ride_type": ["Character Experience"],
     "theme": "Mickey & Friends",
     "wheelchair_accessible": true,
-    "description": "Meet Dino Donald Duck!\nDonald Duck just heard the news—some of his feathered ancestors were dinosaurs! To mark this inquackable discovery, he’s transformed this land into a celebration for the ages.\n\nHe’s also unearthed more old friends than Disney’s Animal Kingdom Theme Park has ever seen before—including Donald, Daisy and Pluto. You can even catch Chip ’n Dale—sporting some nutty dino-inspired costumes."
+    "description": "Meet Dino Donald Duck!Donald Duck just heard the news—some of his feathered ancestors were dinosaurs! To mark this inquackable discovery, he’s transformed this land into a celebration for the ages.He’s also unearthed more old friends than Disney’s Animal Kingdom Theme Park has ever seen before—including Donald, Daisy and Pluto. You can even catch Chip ’n Dale—sporting some nutty dino-inspired costumes."
   },
   {
-    "id": 58,
+    "id": 57,
     "image_URL": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/630/354/75/dam/wdpro-assets/gallery/attractions/blizzard-beach/downhill-double-dipper/downhill-double-dipper-gallery03.jpg?1658994503432",
     "attraction_name": "Downhill Double Dipper",
     "park": "Blizzard Beach",
@@ -682,10 +682,10 @@
     "ride_type": ["Water Ride", "Thrill Ride", "Big Drops"],
     "theme": "Water",
     "wheelchair_accessible": false,
-    "description": "It’s All Downhill from Here\nA retractable starting gate is all that stands between you and victory. Anticipation builds as you and your opponent wait on inner tubes at the top of twin enclosed waterslides. Suddenly, the gates retract—and you’re off!\n\nDisappear into a black hole and plummet 50 feet downhill at exhilarating speeds. Hurtle through darkness, then emerge just in time for the big splashdown.\n\nMay the fastest racer come in first!"
+    "description": "It’s All Downhill from HereA retractable starting gate is all that stands between you and victory. Anticipation builds as you and your opponent wait on inner tubes at the top of twin enclosed waterslides. Suddenly, the gates retract—and you’re off!Disappear into a black hole and plummet 50 feet downhill at exhilarating speeds. Hurtle through darkness, then emerge just in time for the big splashdown.May the fastest racer come in first!"
   },
   {
-    "id": 59,
+    "id": 58,
     "image_URL": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/630/354/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/DTL_RG_03-16x9.jpg?2022-01-05T21:40:44+00:00",
     "attraction_name": "Drawn to Life Presented by Cirque du Soleil® & Disney",
     "park": "Disney Springs",
@@ -694,10 +694,10 @@
     "ride_type": ["Shows"],
     "theme": "Parades & Shows",
     "wheelchair_accessible": true,
-    "description": "A Creative Tour-de-Force\nSet your imagination in motion with Drawn to Life—a love letter to the art of Disney animation.\n\nIn this first-ever collaboration between Cirque du Soleil, Walt Disney Animation Studios and Walt Disney Imagineering, journey into a world where an animator’s desk becomes the stage and drawings come alive. The show is a celebration of life, accentuated by the delightful, mesmerizing movements of Cirque du Soleil’s acrobatic mastery."
+    "description": "A Creative Tour-de-ForceSet your imagination in motion with Drawn to Life—a love letter to the art of Disney animation.In this first-ever collaboration between Cirque du Soleil, Walt Disney Animation Studios and Walt Disney Imagineering, journey into a world where an animator’s desk becomes the stage and drawings come alive. The show is a celebration of life, accentuated by the delightful, mesmerizing movements of Cirque du Soleil’s acrobatic mastery."
   },
   {
-    "id": 60,
+    "id": 59,
     "image_URL": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/gallery/attractions/magic-kingdom/dumbo-the-flying-elephant/dumbo-the-flying-elephant-gallery06.jpg?1658978159439",
     "attraction_name": "dumbo the Flying Elephant",
     "park": "Magic Kingdom",
@@ -706,10 +706,10 @@
     "ride_type": ["Slow Ride", "Spinning"],
     "theme": "Classics",
     "wheelchair_accessible": false,
-    "description": "An “Ear”-born Adventure\nBased on the 1941 Disney animated masterpiece Dumbo, this classic attraction lets you hop atop everybody’s favorite circus elephant as he discovers he can fly. Dumbo’s faithful friend Timothy Q. Mouse helps keeps you aloft with his “magic” feather. \n\nAs the jubilant organ melody begins, lift off for a graceful cruise around (and around and around) Storybook Circus."
+    "description": "An “Ear”-born AdventureBased on the 1941 Disney animated masterpiece Dumbo, this classic attraction lets you hop atop everybody’s favorite circus elephant as he discovers he can fly. Dumbo’s faithful friend Timothy Q. Mouse helps keeps you aloft with his “magic” feather. As the jubilant organ melody begins, lift off for a graceful cruise around (and around and around) Storybook Circus."
   },
   {
-    "id": 61,
+    "id": 60,
     "image_URL": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/630/354/75/dam/wdpro-assets/gallery/entertainment/magic-kingdom/electrical-water-pageant/electrical-water-pageant-gallery02.jpg?1675102720970",
     "attraction_name": "Electrical Water Pageant",
     "park": "",
@@ -718,10 +718,10 @@
     "ride_type": ["Shows"],
     "theme": "Parades & Shows",
     "wheelchair_accessible": true,
-    "description": "An Underwater World of Mystery\nA bright green sea monster leads an enchanting, twinkling musical pageant you can see and hear from locations along the shore.\n\nThe procession includes a stirring and inspirational medley of patriotic songs while stars and stripes float along the shimmering water.\n\nDon’t miss this beloved nighttime delight!"
+    "description": "An Underwater World of MysteryA bright green sea monster leads an enchanting, twinkling musical pageant you can see and hear from locations along the shore.The procession includes a stirring and inspirational medley of patriotic songs while stars and stripes float along the shimmering water.Don’t miss this beloved nighttime delight!"
   },
   {
-    "id": 62,
+    "id": 61,
     "image_URL": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/630/354/75/dam/disney-world/attractions/magic-kingdom/enchanted-tales-with-belle/mk-belle-enchanted-tales-meet-16x9.jpg?1658993493652",
     "attraction_name": "Enchanted Tales with Belle",
     "park": "Magic Kingdom",
@@ -730,10 +730,10 @@
     "ride_type": ["Character Experience"],
     "theme": "Disney Princesses",
     "wheelchair_accessible": true,
-    "description": "A Tale as Old as Time\nStep into Belle and Maurice’s quaint country cottage and marvel at the charming decor. Next, tour Maurice’s workshop, where you’ll see his inventive gadgets—and a special enchanted mirror the Beast gave to Belle. Say the magic words and the mirror comes to life!\n\nWatch the story of how Belle and the Beast met, and then behold the walls disappear before your eyes as you are magically transported to the Beast’s castle.\n\nMeet the Enchanted Wardrobe, who will help selected participants prepare for their role. Which of you will play the Beast? Guests of all ages may volunteer!"
+    "description": "A Tale as Old as TimeStep into Belle and Maurice’s quaint country cottage and marvel at the charming decor. Next, tour Maurice’s workshop, where you’ll see his inventive gadgets—and a special enchanted mirror the Beast gave to Belle. Say the magic words and the mirror comes to life!Watch the story of how Belle and the Beast met, and then behold the walls disappear before your eyes as you are magically transported to the Beast’s castle.Meet the Enchanted Wardrobe, who will help selected participants prepare for their role. Which of you will play the Beast? Guests of all ages may volunteer!"
   },
   {
-    "id": 63,
+    "id": 62,
     "image_URL": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/live-performances/Bodhaktan-2023-MDX-Final-16x9.jpg?2023-03-10T19:25:05+00:00",
     "attraction_name": "Entertainment at Canada Mill Stage",
     "park": "EPCOT",
@@ -742,10 +742,10 @@
     "ride_type": ["Shows"],
     "theme": "Parades & Shows",
     "wheelchair_accessible": true,
-    "description": "Bodh'aktan\nRock out in the Great White North when Bodh’aktan takes the stage! Featuring Celtic, trad-Quebecois, punk, Irish folk, Breton and Maritime influences, they're a gargantuan musical achievement - as fantastically creative as they are exciting."
+    "description": "Bodh'aktanRock out in the Great White North when Bodh’aktan takes the stage! Featuring Celtic, trad-Quebecois, punk, Irish folk, Breton and Maritime influences, they're a gargantuan musical achievement - as fantastically creative as they are exciting."
   },
   {
-    "id": 64,
+    "id": 63,
     "image_URL": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/630/354/75/dam/disney-world/entertainment/epcot/epcot-forever/epcot-forever-fireworks-1-16x9.jpg?1584024502978",
     "attraction_name": "EPCOT Forever",
     "park": "EPCOT",
@@ -754,138 +754,114 @@
     "ride_type": ["Shows", "Fireworks"],
     "theme": "Parades & Shows",
     "wheelchair_accessible": true,
-    "description":"From Magical Memories to a Fabulous Future\nWitness the wonder as the story of EPCOT and its next incredible chapter come to life in this nighttime spectacular. Behold the single “spark of imagination” that started it all. Watch it grow, evolve and transform into a nighttime extravaganza that stirs the senses and captures all you love about EPCOT and all that’s to come––with dazzling fireworks and stunning laser effects set to tunes that have become theme park favorites."
+    "description":"From Magical Memories to a Fabulous FutureWitness the wonder as the story of EPCOT and its next incredible chapter come to life in this nighttime spectacular. Behold the single “spark of imagination” that started it all. Watch it grow, evolve and transform into a nighttime extravaganza that stirs the senses and captures all you love about EPCOT and all that’s to come––with dazzling fireworks and stunning laser effects set to tunes that have become theme park favorites."
   },
   {
-    "id": 65,
+    "id": 64,
     "image_URL": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/630/354/75/dam/wdpro-assets/gallery/attractions/animal-kingdom/expedition-everest/expedition-everest-gallery00.jpg?1659099581591",
-    "attraction_name": "Expedition Everest",
+    "attraction_name": "Expedition Everest - Legend of the Forbidden Mountain",
     "park": "Animal Kingdom",
     "location": "Asia",
     "height_limit": "> 44",
     "ride_type": ["Thrill Ride", "Big Drops"],
     "theme": "",
     "wheelchair_accessible": false,
-    "description": "Yeti or Not, Here He Comes!\nWander into a Tibetan village at the base of Mount Everest and board a train to the “top of the world.” Beware: Some say a legendary snow monster lives deep in the mountain.\n\nAfter a steep ascent, your train picks up speed and races into the darkness. Without warning, a broken and twisted track appears in front of you. Brace yourself as you plummet backward into total darkness. Inside the cavern, the mythical tale comes true as you see the shadow of a massive, growling beast!\n\nRace to escape the cursed mountain—before the Yeti claims another expedition."
+    "description": "Yeti or Not, Here He Comes!Wander into a Tibetan village at the base of Mount Everest and board a train to the “top of the world.” Beware: Some say a legendary snow monster lives deep in the mountain.After a steep ascent, your train picks up speed and races into the darkness. Without warning, a broken and twisted track appears in front of you. Brace yourself as you plummet backward into total darkness. Inside the cavern, the mythical tale comes true as you see the shadow of a massive, growling beast!Race to escape the cursed mountain—before the Yeti claims another expedition."
+  },
+  {
+    "id": 65,
+    "image_URL": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/630/354/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/attractions/fantasmic/1024ZO_6448AFN_xak-16x9.jpg?2022-12-01T18:39:54+00:00",
+    "attraction_name": "Fantasmic!",
+    "park": "Hollywood Studio's",
+    "location": "Sunset Boulevard",
+    "height_limit": "Any Height",
+    "ride_type": ["Shows"],
+    "theme": "Parades & Shows",
+    "wheelchair_accessible": true,
+    "description": "A Legendary TaleFeaturing stunning effects, thrilling stunts, dazzling pyrotechnics and rousing music, this larger-than-life show is painted on a grand canvas of dancing water and light. Overflowing with silly and suspenseful surprises, it will leave your entire family smiling from ear-to-ear!A Night When Dreams Come TrueFast asleep, Mickey Mouse dreams that he is a mighty sorcerer’s apprentice with the power to control water, color and magic. The Disney Villains—including Maleficent in the form of a towering, 40-foot-tall dragon—turn Mickey’s dream into a nightmare, but don’t underestimate the power of Mickey’s imagination!"
   },
   {
     "id": 66,
-    "image_URL": "",
-    "attraction_name": ,
-    "park": ,
-    "location": ,
-    "height_limit": ,
-    "ride_type": [],
-    "theme": ,
-    "wheelchair_accessible": ,
-    "description":
+    "image_URL": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/disney-world/entertainment/animal-kingdom/new-entertainment/vulture-16x9.jpg?1675102784704",
+    "attraction_name": "Feathered Friends in Flight!",
+    "park": "Animal Kingdom",
+    "location": "Asia",
+    "height_limit": "Any Height",
+    "ride_type": ["Experience"],
+    "theme": "Animals",
+    "wheelchair_accessible": true,
+    "description": "Join the animal behavior specialists for a behind-the-scenes look at the free-flying birds of Disney’s Animal Kingdom theme park. Visit Anandapur Theater to learn how these specialists care for and train their feathered friends."
   },
   {
     "id": 67,
-    "image_URL": "",
-    "attraction_name": ,
-    "park": ,
-    "location": ,
-    "height_limit": ,
-    "ride_type": [],
-    "theme": ,
-    "wheelchair_accessible": ,
-    "description":
+    "image_URL": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/630/354/75/dam/wdpro-assets/gallery/entertainment/animal-kingdom/festival-of-the-lion-king/festival-of-the-lion-king-gallery00.jpg?1675102855704",
+    "attraction_name": "Festival of the Lion King",
+    "park": "Animal Kingdom",
+    "location": "Africa",
+    "height_limit": "Any Height",
+    "ride_type": ["Stage Shows"],
+    "theme": "Parades & Shows",
+    "wheelchair_accessible": true,
+    "description": "Delight in a larger-than-life show filled with songs, pageantry and puppetry celebrating the classic movie, The Lion King."
   },
   {
     "id": 68,
     "image_URL": "",
-    "attraction_name": ,
-    "park": ,
-    "location": ,
-    "height_limit": ,
-    "ride_type": [],
-    "theme": ,
-    "wheelchair_accessible": ,
-    "description":
+    "attraction_name": "Finding Nemo: The Big Blue... and Beyond!",
+    "park": "Animal Kingdom",
+    "location": "DinoLand USA",
+    "height_limit": "Any Height",
+    "ride_type": ["Stage Shows"],
+    "theme": "Parades & Shows",
+    "wheelchair_accessible": true,
+    "description": "The Big Blue World – Live on StageBased on Disney and Pixar’s film Finding Nemo, this exciting stage show invites you to discover the familiar tale of Nemo and friends from a whole new point of view, as well as fan favorite songs such as “In the Big Blue World” and “Go with the Flow.”The adventure begins by catching up with the fish from Dr. P. Sherman’s office in Finding Nemo who made their way across the ocean to the Marine Life Institute.With live performers, animated backdrops and a theater decked out with innovative lighting, sound and special effects to create Nemo’s undersea environment, this newly updated show takes you back to the extraordinary underwater world—all over again!"
   },
   {
     "id": 69,
-    "image_URL": "",
-    "attraction_name": ,
-    "park": ,
-    "location": ,
-    "height_limit": ,
-    "ride_type": [],
-    "theme": ,
-    "wheelchair_accessible": ,
-    "description":
+    "image_URL": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/animal-kingdom/disney-animals/disney-animals-flamingos/disney-animals-flamingos-flock-gathering-water-16x9.jpg?1675235982690",
+    "attraction_name": "Flamingos at Discovery Island",
+    "park": "Animal Kingdom",
+    "location": "Discovery Island",
+    "height_limit": "Any Height",
+    "ride_type": ["Safari"],
+    "theme": "Animals",
+    "wheelchair_accessible": true,
+    "description": "Flamingos at Walt Disney World ResortFound on every continent except Antarctica, flamingos live near large bodies of water, like shallow lakes and lagoons. It’s common for flamingos to form a huge flock of 10,000 birds or more."
   },
   {
     "id": 70,
-    "image_URL": "",
-    "attraction_name": ,
-    "park": ,
-    "location": ,
-    "height_limit": ,
-    "ride_type": [],
-    "theme": ,
-    "wheelchair_accessible": ,
-    "description":
+    "image_URL": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/entertainment/hollywood-studios/frozen-sing-along-celebration/summer-update-00.jpg?1676578603162",
+    "attraction_name": "For the First Time in Forever: A Frozen Sing-Along Celebration",
+    "park": "Hollywood Studios",
+    "location": "Echo Lake",
+    "height_limit": "Any Height",
+    "ride_type": ["Character Experiences", "Shows"],
+    "theme": "Disney Princesses",
+    "wheelchair_accessible": true,
+    "description": "The Snow Must Go OnDrift over to your seat in the theater and listen spellbound as the Royal Historians of Arendelle recount the frosty story of their enchanted kingdom. Watch as thrilling moments from the movie play on-screen, then cheer as Anna, Elsa and Kristoff appear to sing along with the audience! Projected lyrics make it easy to belt out irresistible show-stoppers like “Let It Go."
   },
   {
     "id": 71,
-    "image_URL": "",
-    "attraction_name": ,
-    "park": ,
-    "location": ,
-    "height_limit": ,
-    "ride_type": [],
-    "theme": ,
-    "wheelchair_accessible": ,
-    "description":
+    "image_URL": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/630/354/75/dam/wdpro-assets/gallery/attractions/animal-kingdom/fossil-fun-games/fossil-fun-games-gallery00.jpg?1551208966418",
+    "attraction_name": "Fossil Fun Games",
+    "park": "Animal Kingdom",
+    "location": "DinoLand USA",
+    "height_limit": "Any Height",
+    "ride_type": ["Interactive"],
+    "theme": "Outdoors",
+    "wheelchair_accessible": true,
+    "description": "Prehistoric Fun for EveryoneTest your skills and compete to win prizes at these dino-ized versions of classic boardwalk games. Whack mischievous dinosaurs, squirt targets, toss “comets,” roll balls down holes and shoot hoops so well you could make a T-Rex wish it had longer arms.In keeping with the carnival theme, the Fossil Fun Games area also includes a curved carnival mirror, painted photo backdrop, concession stand and a picture booth."
   },
   {
     "id": 72,
-    "image_URL": "",
-    "attraction_name": ,
-    "park": ,
-    "location": ,
-    "height_limit": ,
-    "ride_type": [],
-    "theme": ,
-    "wheelchair_accessible": ,
-    "description":
-  },
-  {
-    "id": 73,
-    "image_URL": "",
-    "attraction_name": ,
-    "park": ,
-    "location": ,
-    "height_limit": ,
-    "ride_type": [],
-    "theme": ,
-    "wheelchair_accessible": ,
-    "description":
-  },
-  {
-    "id": 74,
-    "image_URL": "",
-    "attraction_name": ,
-    "park": ,
-    "location": ,
-    "height_limit": ,
-    "ride_type": [],
-    "theme": ,
-    "wheelchair_accessible": ,
-    "description":
-  },
-  {
-    "id": 75,
-    "image_URL": "",
-    "attraction_name": ,
-    "park": ,
-    "location": ,
-    "height_limit": ,
-    "ride_type": [],
-    "theme": ,
-    "wheelchair_accessible": ,
-    "description":
+    "image_URL": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/630/354/75/dam/wdpro-assets/gallery/attractions/magic-kingdom/frontierland-shootin-arcade/frontierland-shootin-arcade-gallery01.jpg?1551208441450",
+    "attraction_name": "Frontierland Shootin' Arcade",
+    "park": "Magic Kingdom",
+    "location": "Frontierland",
+    "height_limit": "Any Height",
+    "ride_type": ["Interactive"],
+    "theme": "Indoors",
+    "wheelchair_accessible": true,
+    "description": "Ready! Aim! Fire!Mosey on up to a rustic log cabin and fill yer hands with a replica .54-caliber Hawkins buffalo rifle. Against the southwestern landscape, a familiar sight comes into view: legendary Boot Hill in the famous frontier town of Tombstone, Arizona. Using projectile-free infrared technology, take your best shot at a bevy of moving and stationary targets. The dusty setting provides a picture-perfect backdrop to test your marksmanship."
   }
 ]

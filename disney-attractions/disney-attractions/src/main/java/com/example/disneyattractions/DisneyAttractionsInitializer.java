@@ -2,7 +2,7 @@ package com.example.disneyattractions;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
-import org.apache.tomcat.util.json.JSONParser;
+import org.json.simple.parser.JSONParser;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.io.Resource;
@@ -10,6 +10,7 @@ import org.springframework.stereotype.Component;
 
 import javax.annotation.PostConstruct;
 import java.io.FileReader;
+import java.util.ArrayList;
 
 @Component
 public class DisneyAttractionsInitializer {
@@ -39,13 +40,12 @@ public class DisneyAttractionsInitializer {
                 String park = (String) disneyAttractionJSON.get("park");
                 String location = (String) disneyAttractionJSON.get("location");
                 String heightLimit = (String) disneyAttractionJSON.get("height_limit");
-                String rideType = (String) disneyAttractionJSON.get("ride_type");
+                ArrayList<String> rideType = (ArrayList<String>) disneyAttractionJSON.get("ride_type");
                 String theme = (String) disneyAttractionJSON.get("theme");
                 Boolean wheelchairAccessible = (Boolean) disneyAttractionJSON.get("wheelchair_accessible");
                 String description = (String) disneyAttractionJSON.get("description");
-                int rating = (int) disneyAttractionJSON.get("rating");
 
-                disneyAttractionsRepository.addDisneyAttraction(new DisneyAttraction(id, attractionName, park, location,heightLimit, rideType, theme, wheelchairAccessible,description,rating));
+                disneyAttractionsRepository.addDisneyAttraction(new DisneyAttraction(id, attractionName, park, location, heightLimit,rideType,theme,wheelchairAccessible,description));
             }
 
         } catch (Exception e){

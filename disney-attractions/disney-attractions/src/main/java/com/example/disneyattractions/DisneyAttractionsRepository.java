@@ -1,8 +1,11 @@
 package com.example.disneyattractions;
 
+import org.springframework.stereotype.Repository;
+
 import java.util.ArrayList;
 import java.util.Random;
 
+@Repository
 public class DisneyAttractionsRepository {
     ArrayList<DisneyAttraction> disneyAttractions = new ArrayList<>();
     Random random = new Random();

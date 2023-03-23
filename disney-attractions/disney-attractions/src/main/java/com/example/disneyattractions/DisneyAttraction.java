@@ -1,5 +1,6 @@
 package com.example.disneyattractions;
 
+import java.util.ArrayList;
 import java.util.Random;
 
 public class DisneyAttraction {
@@ -8,16 +9,15 @@ public class DisneyAttraction {
     private String park;
     private String location;
     private String heightLimit;
-    private String rideType;
+    private ArrayList<String> rideType;
     private String theme;
     private Boolean wheelchairAccessible;
     private String description;
-    private int rating;
 
     public DisneyAttraction() {
     }
 
-    public DisneyAttraction(long id, String attractionName, String park, String location, String heightLimit, String rideType, String theme, Boolean wheelchairAccessible, String description, int rating) {
+    public DisneyAttraction(long id, String attractionName, String park, String location, String heightLimit, ArrayList<String> rideType, String theme, Boolean wheelchairAccessible, String description) {
         this.id = id;
         this.attractionName = attractionName;
         this.park = park;
@@ -27,7 +27,6 @@ public class DisneyAttraction {
         this.theme = theme;
         this.wheelchairAccessible = wheelchairAccessible;
         this.description = description;
-        this.rating = rating;
     }
 
     public long getId() {
@@ -70,11 +69,11 @@ public class DisneyAttraction {
         this.heightLimit = heightLimit;
     }
 
-    public String getRideType() {
+    public ArrayList<String> getRideType() {
         return rideType;
     }
 
-    public void setRideType(String rideType) {
+    public void setRideType(ArrayList<String> rideType) {
         this.rideType = rideType;
     }
 
@@ -100,13 +99,5 @@ public class DisneyAttraction {
 
     public void setDescription(String description) {
         this.description = description;
-    }
-
-    public int getRating() {
-        return rating;
-    }
-
-    public void setRating(int rating) {
-        this.rating = rating;
     }
 }
