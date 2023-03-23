@@ -1,0 +1,14 @@
+@use '../../assets/styles/variables.scss' as *;
+
+.footer-container{
+    display: flex;
+    flex-direction: column;
+}
+.footer-divider{
+    height: 1vh;
+    background-color: $header-divider;
+}
+.footer{
+    height: 5vh;
+    background-color: $header-background;
+}
