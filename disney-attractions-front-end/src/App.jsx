@@ -1,14 +1,12 @@
 import './App.scss';
-import Footer from './components/Footer/Footer';
-import GeneralParksCard from './components/GeneralParksCard/GeneralParksCard';
+import MainPageAttrCards from './components/MainPageAttrCards/MainPageAttrCards';
 import Header from './containers/Header/Header';
 
 function App() {
   return (
     <div className="App">
       <Header/>
-      <Footer/>
-      <GeneralParksCard/>
+      <MainPageAttrCards/>
     </div>
   );
 }

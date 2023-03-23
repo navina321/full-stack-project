@@ -1,0 +1,38 @@
+@use '../../assets/styles/variables.scss' as *;
+
+.main-page-attr-cards{
+    display: flex;
+    justify-content: center;
+}
+.main-attr-card{
+    display: flex;
+    width: 65vw;
+    background-color: white;
+    border: 2px solid $header-divider;
+    border-radius: 1.5rem;
+    align-items: center;
+    padding: 2vh 2vw;
+    &__text-elements{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        padding-left: 2vw;
+        width: 45vw;
+        
+    }
+    &__title{
+        margin: 0;
+        align-self: start;
+    }
+    &__description{
+        margin: 0;
+        width: 45vw;
+        padding: 2.5vh 0;
+    }
+    &__park{
+        margin: 0;
+    }
+    &__image{
+        height: 20vh;
+    }
+}
