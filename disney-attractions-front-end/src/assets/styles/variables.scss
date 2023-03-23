@@ -1,6 +1,8 @@
 //imports
 @import url('https://fonts.googleapis.com/css2?family=Teko:wght@400;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+
 //colors
 $header-background: #67A9FF;
 $carousel-background: #D9D9D9;
@@ -15,7 +17,8 @@ $dropdown-font: #FF5762;
 $main-border: #5595AC;
 
 //fonts
-$font-text: 'Teko', sans-serif;
+$font-text: 'Delicious Handrawn', cursive;
+//$font-text: 'Teko', sans-serif;
 $font-navigation: 'Gloria Hallelujah', cursive;
 //breakpoints
 $tablet-breakpoint: 768px;
