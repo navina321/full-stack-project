@@ -10,11 +10,10 @@
     background-color: $header-background;
     &__navigation{
         align-self: flex-end;
-        padding-bottom: 1vh;
     }
 
 }
 .header-divider{
-    height: 10px;
+    height: 1.5vh;
     background-color: $header-divider;
 }
