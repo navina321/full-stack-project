@@ -1,0 +1,20 @@
+@use '../../assets/styles/variables.scss' as *;
+
+.header-component{
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    background-color: $header-background;
+}
+.header-logo-container{
+   
+    &__logo{
+         height: 20vh;
+    }
+    &__title{
+        height: 20vh;
+    }
+}
+.header-navigation{
+    align-self: flex-end;
+}
