@@ -1,0 +1,20 @@
+@use '../../assets/styles/variables.scss' as *;
+
+.header-containter{
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: $header-background;
+    &__navigation{
+        align-self: flex-end;
+        padding-bottom: 1vh;
+    }
+
+}
+.header-divider{
+    height: 10px;
+    background-color: $header-divider;
+}
