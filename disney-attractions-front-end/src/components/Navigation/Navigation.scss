@@ -1,0 +1,16 @@
+@use '../../assets/styles/variables.scss' as *;
+
+.navigation-component{
+    width: 50vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.navigation-item{
+    height: auto;
+    width: auto;
+    margin: 0;
+    font-size: 1.25rem;
+    color: $navigation-font;
+    font-family: $font-navigation;
+}
