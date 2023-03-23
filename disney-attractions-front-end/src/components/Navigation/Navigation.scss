@@ -1,16 +1,64 @@
 @use '../../assets/styles/variables.scss' as *;
 
-.navigation-component{
-    width: 40vw;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
-.navigation-item{
-    height: auto;
-    width: auto;
-    margin: 0;
-    font-size: 1.25rem;
+.navigation-component {
+    overflow: hidden;
+    background-color: #67A9FF;
+    font-family: $font-navigation
+  }
+  
+  .navigation-component a {
+    float: left;
+    font-size: 1rem;
     color: $navigation-font;
-    font-family: $font-navigation;
-}
+    text-align: center;
+    padding: 1rem 1rem;
+    text-decoration: none;
+  }
+  
+  .navigation-dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+  .navigation-dropdown .dropdown-button {
+    font-size: 1rem;  
+    border: none;
+    outline: none;
+    color: $navigation-font;
+    padding: 1rem 1rem;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  .navigation-dropdown:hover{
+    background-color: $header-background;
+  }
+  .navbar a:hover, .dropdown-button {
+    background-color: $dropdown-background;
+  }
+  
+  .dropdown-items {
+    display: none;
+    position: absolute;
+    background-color: $dropdown-background;
+    min-width: 10rem;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-items a {
+    float: none;
+    color: $dropdown-font;
+    padding: 0.75rem 1rem;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-items a:hover {
+    background-color: $header-background;
+  }
+  
+  .navigation-dropdown:hover .dropdown-items {
+    display: block;
+  }
