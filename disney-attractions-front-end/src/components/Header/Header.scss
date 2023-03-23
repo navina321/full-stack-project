@@ -1,20 +1,16 @@
 @use '../../assets/styles/variables.scss' as *;
 
 .header-component{
-    height: 20vh;
+    width: auto;
     display: flex;
-    justify-content: center;
-    background-color: $header-background;
+    //justify-content: center;
+    align-items: center;
 }
 .header-logo-container{
-   
     &__logo{
          height: 20vh;
     }
     &__title{
         height: 20vh;
     }
-}
-.header-navigation{
-    align-self: flex-end;
 }

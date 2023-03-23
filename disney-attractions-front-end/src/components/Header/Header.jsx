@@ -18,9 +18,6 @@ const Header = () => {
           className="header-logo-container__title"
         />
       </div>
-      <div className="header-navigation">
-        <Navigation />
-      </div>
     </div>
   );
 };
