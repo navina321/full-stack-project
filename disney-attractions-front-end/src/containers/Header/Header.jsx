@@ -6,7 +6,9 @@ const Header = () => {
   return (
     <div className='header-container'>
         <section className='header'>
-            <HeaderComponent/>
+            <a href='#'>
+              <HeaderComponent/>
+            </a>
             <div className='header__navigation'>
              <Navigation/>
             </div>
