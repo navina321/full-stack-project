@@ -1,11 +1,14 @@
 import './App.scss';
+import Carousel from './components/Carousel/Carousel';
 import Homepage from './pages/Homepage/Homepage';
+import AnimalKingdom from './assets/images/park-images/animal-kingdom.jpg'
 
 
 function App() {
   return (
     <div className="App">
-      <Homepage/>
+     {/* <Homepage/> */}
+     <Carousel imagesArr = {AnimalKingdom}/>
     </div>
   );
 }
