@@ -2,6 +2,7 @@ import React from 'react'
 import './GeneralParksCard.scss'
 
 const GeneralParksCard = ({image, title, alt,description}) => {
+    
   return (
     <div className='general-parks-card-component'>
       <div className='general-parks-card__image-container'>

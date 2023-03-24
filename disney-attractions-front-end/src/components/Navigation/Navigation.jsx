@@ -13,7 +13,7 @@ const Navigation = () => {
     <div className = 'navigation-component'>
       <div className='navigation-dropdown'>
         <button className='dropdown-button'>
-          Disney Parks
+          Attractions
           <i class="fa fa-caret-down"></i>
         </button>
         <div className='dropdown-items'>
