@@ -1,33 +1,42 @@
-@use '../../assets/styles/variables.scss' as *;
+@use "../../assets/styles/variables.scss" as *;
 
-.general-parks-card-component{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    width: 25vw;
-    height: 51vh;
-    padding: 2.5vh 0;
+.general-parks-card-component {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 25vw;
+  height: 51vh;
+  padding: 2.5vh 0;
 
-    .general-parks-card{
-        &__image{
-            width: 19vw;
-            height: 22.5vh;
-        }
-        &__title{
-            font-size: 1.5rem;
-            margin-bottom: 0;
-            font-family: $font-navigation;
-            color: $attraction-font;
-        }
-        &__description{
-            width: 21vw;
-            font-size: 1.25rem;
-            font-family: $font-text;
-            text-align: justify;
-            margin: 0;
-            overflow: auto;
-            color: $attraction-font;
-        }
+  .general-parks-card {
+    &__image {
+      width: 19vw;
+      height: 22.5vh;
     }
+    &__title {
+      font-size: 1.5rem;
+      margin-bottom: 0;
+      font-family: $font-navigation;
+      color: $attraction-font;
+    }
+    &__description {
+      width: 21vw;
+      font-size: 1.25rem;
+      font-family: $font-text;
+      text-align: justify;
+      margin: 0;
+      overflow: auto;
+      color: $attraction-font;
+    }
+    &__description::-webkit-scrollbar {
+      width: 7.5px;
+    }
+    &__description::-webkit-scrollbar-track {
+      background: white;
+    }
+    &__description::-webkit-scrollbar-thumb {
+      background: $carousel-background;
+    }
+  }
 }
