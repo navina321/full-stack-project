@@ -1,0 +1,27 @@
+@use "../../assets/styles/variables.scss" as *;
+.park-summary-card {
+  width: 80vw;
+  padding: 5vh 5vw;
+}
+.park-summary-title {
+  text-align: center;
+  font-family: $font-navigation;
+  font-size: 2rem;
+  color: $attraction-font;
+}
+.summary-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5vw;
+  &__image {
+    width: 25vw;
+  }
+  &__description {
+    text-align: justify;
+    font-family: $font-text;
+    font-size: 1.5rem;
+    margin: 0;
+    color: $attraction-font;
+  }
+}
