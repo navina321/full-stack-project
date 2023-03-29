@@ -2,7 +2,7 @@ const parkInfo = [
     {   
         id: 1,
         parkName: "Magic Kingdom",
-        parkDescription: "The world's most famous theme park, Magic Kingdom Park at Walt Disney World Resort in Orlando is the place where childhood dreams come true. With more than 40 unforgettable attractions, themed dining and shopping, and countless surprises, your imagination is the limit when you're at “The Most Magical Place on Earth”. Magic Kingdom Park is divided into six themed lands, each with a different focus. After arriving at the park by your choice of ferry or monorail, you'll stroll through the gates into the first area, Main Street, U.S.A. Here, you can hop aboard the Walt Disney World   ®Railroad for a unique tour of the park. Famous attractions here include Pirates of the Caribbean and Jungle Cruise. ",
+        parkDescription: "The world's most famous theme park, Magic Kingdom Park at Walt Disney World Resort in Orlando is the place where childhood dreams come true. With more than 40 unforgettable attractions, themed dining and shopping, and countless surprises, your imagination is the limit when you're at “The Most Magical Place on Earth”. Magic Kingdom Park is divided into six themed lands, each with a different focus. After arriving at the park by your choice of ferry or monorail, you'll stroll through the gates into the first area, Main Street, U.S.A. Here, you can hop aboard the Walt Disney World Railroad for a unique tour of the park. Famous attractions here include Pirates of the Caribbean and Jungle Cruise.",
         openingTime:"9.00AM",
         closingTime:"11.00PM"
     },
@@ -43,7 +43,7 @@ const parkInfo = [
     },{
         id: 7,
         parkName: "Disney Springs",
-        parkDescription: "Disney Springs is a shopping, dining, and entertainment district located in Walt Disney World Resort. The district is spread over four distinct neighborhoods - The Landing, Marketplace, West Side, and Town Center - and features over 100 shops, restaurants, and entertainment venues. Visitors can explore a wide variety of stores, ranging from high-end designer boutiques to Disney-themed souvenir shops.",
+        parkDescription: "Disney Springs is a shopping, dining, and entertainment district located in Walt Disney World Resort. The district is spread over four distinct neighborhoods - The Landing, Marketplace, West Side, and Town Center, and features over 100 shops, restaurants, and entertainment venues. Visitors can explore a wide variety of stores, ranging from high-end designer boutiques to Disney-themed souvenir shops.",
         openingTime:"10.00AM",
         closingTime:"11.30PM"
     },
