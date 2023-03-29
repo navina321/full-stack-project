@@ -1,63 +1,25 @@
 package com.example.disneyattractions;
 
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 
-import java.util.ArrayList;
-import java.util.Random;
+import java.util.List;
 
 @Repository
-public class DisneyAttractionsRepository {
-    ArrayList<DisneyAttraction> disneyAttractions = new ArrayList<>();
-    Random random = new Random();
+public interface DisneyAttractionsRepository extends JpaRepository<DisneyAttraction, Long> {
+    //READ
+    List<DisneyAttraction> getAllByDisneyPark(String parkName);
 
-    //CREATE
-     public void addDisneyAttraction(DisneyAttraction disneyAttraction){
-         disneyAttractions.add(disneyAttraction);
-     }
-     //READ
-    public DisneyAttraction getDisneyAttractionById(Long id){
-         for (DisneyAttraction disneyAttraction: disneyAttractions){
-             if(disneyAttraction.getId() == id){
-                 return disneyAttraction;
-             }
-         }
-         return null;
-    }
+    @Query(value = "SELECT DISTINCT id from disneyAttractions", nativeQuery = true)
+    List<Long> getDistinctIds();
 
-    public DisneyAttraction getDisneyAttractionByName(String name){
-        for (DisneyAttraction disneyAttraction: disneyAttractions){
-            if(disneyAttraction.getAttractionName() == name){
-                return disneyAttraction;
-            }
-        }
-        return null;
-    }
+    @Query(value = "SELECT DISTINCT park_name FROM disneyAttractions ORDER BY park_name", nativeQuery = true)
+    List<String> getDistinctDisneyParks();
 
-    public ArrayList<DisneyAttraction> getAllDisneyAttractions(){
-         return disneyAttractions;
-    }
-    public DisneyAttraction getRandomDisneyAttraction(){
-         return disneyAttractions.get(random.nextInt(disneyAttractions.size()));
-    }
-
-    //UPDATE
-
+    @Query(value = "SELECT * FROM disneyAttractions ORDER BY RAND() LIMIT 1", nativeQuery = true)
+    DisneyAttraction getRandomDisneyAttraction();
 
     //DELETE
-    public void deleteDisneyAttractionById(long id){
-         for (DisneyAttraction disneyAttraction: disneyAttractions){
-            if(disneyAttraction.getId() == id){
-                disneyAttractions.remove(id);
-                return;
-            }
-         }
-    }
-    public void deleteDisneyAttractionByName(String name){
-        for (DisneyAttraction disneyAttraction: disneyAttractions){
-            if(disneyAttraction.getAttractionName() == name){
-                disneyAttractions.remove(name);
-                return;
-            }
-        }
-    }
+    void deleteDisneyAttractionById(long id);
 }
