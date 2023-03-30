@@ -9,15 +9,15 @@ import java.util.List;
 @Repository
 public interface DisneyAttractionsRepository extends JpaRepository<DisneyAttraction, Long> {
     //READ
-    List<DisneyAttraction> getAllByDisneyPark(String parkName);
+//    List<DisneyAttraction> getAllByDisneyPark(String parkName);
 
-    @Query(value = "SELECT DISTINCT id from disneyAttractions", nativeQuery = true)
-    List<Long> getDistinctIds();
+//    @Query(value = "SELECT DISTINCT id from disneyAttraction", nativeQuery = true)
+//    List<Long> getDistinctIds();
 
-    @Query(value = "SELECT DISTINCT park_name FROM disneyAttractions ORDER BY park_name", nativeQuery = true)
-    List<String> getDistinctDisneyParks();
+//    @Query(value = "SELECT DISTINCT park_name FROM disney_attractions ORDER BY park_name", nativeQuery = true)
+//    List<String> getDistinctDisneyParks();
 
-    @Query(value = "SELECT * FROM disneyAttractions ORDER BY RAND() LIMIT 1", nativeQuery = true)
+    @Query(value = "SELECT * FROM disneyAttraction ORDER BY RAND() LIMIT 1", nativeQuery = true)
     DisneyAttraction getRandomDisneyAttraction();
 
     //DELETE

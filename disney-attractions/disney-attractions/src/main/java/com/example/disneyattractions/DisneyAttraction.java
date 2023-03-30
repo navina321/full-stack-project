@@ -12,6 +12,7 @@ public class DisneyAttraction {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
+    private String imageUrl;
     private String attractionName;
     private String park;
     private String location;
@@ -24,8 +25,9 @@ public class DisneyAttraction {
     public DisneyAttraction() {
     }
 
-    public DisneyAttraction(long id, String attractionName, String park, String location, String heightLimit, ArrayList<String> rideType, String theme, Boolean wheelchairAccessible, String description) {
+    public DisneyAttraction(long id, String imageUrl, String attractionName, String park, String location, String heightLimit, ArrayList<String> rideType, String theme, Boolean wheelchairAccessible, String description) {
         this.id = id;
+        this.imageUrl = imageUrl;
         this.attractionName = attractionName;
         this.park = park;
         this.location = location;
@@ -42,6 +44,14 @@ public class DisneyAttraction {
 
     public void setId(long id) {
         this.id = id;
+    }
+
+    public String getImageUrl() {
+        return imageUrl;
+    }
+
+    public void setImageUrl(String imageUrl) {
+        this.imageUrl = imageUrl;
     }
 
     public String getAttractionName() {
