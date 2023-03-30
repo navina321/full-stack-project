@@ -1,0 +1,30 @@
+@use '../../assets/styles/variables.scss' as *;
+
+.characters-card-container{
+    width: 60vw;
+}
+.characters-title{
+    margin: 0;
+    font-size: 3rem;
+    padding: 3vh 0;
+    text-align: center;
+    font-family: $font-navigation;
+    color: $attraction-font;
+}
+.characters-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.characters-image{
+padding-bottom: 5vh;
+}
+.characters-content{
+    margin: 0;
+    padding: 1vh;
+    font-family: $font-text;
+    color: $attraction-font;
+    font-size: 1.5rem;
+    text-align: justify;
+}
