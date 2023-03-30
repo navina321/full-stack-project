@@ -1,7 +1,7 @@
 @use '../../assets/styles/variables.scss' as *;
 
 .attraction-page-card{
-    width: 80vw;
+    width: 70vw;
     display: flex;
     flex-direction: column;
     background-color: $attraction-card-background;
@@ -12,7 +12,7 @@
     flex-direction: row;
     
     &__image{
-        width: 40vw;
+        width: 35vw;
         padding: 2.5vw;
         padding-bottom: 0;
     }
@@ -22,20 +22,20 @@
         margin: 0;
     }
     &__name{
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
     &__parks{
         display: flex;
         align-items: center;
         &--park{
-            font-size: 1.75rem;
+            font-size: 1.6rem;
         }
         &--location{
-            font-size: 1.5rem;
+            font-size: 1.4rem;
         }
     }
     &__ride, &__theme, &__height, &__access{
-        font-size: 1.35rem;
+        font-size: 1.3rem;
     }
 }
 
@@ -49,4 +49,5 @@
     margin: 0;
     font-family: $font-text;
     font-size: 1.5rem;
+    padding-top: 0.5vh;
 }
