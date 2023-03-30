@@ -2,7 +2,9 @@ import './App.scss';
 import { useState } from 'react';
 import ParkSummaryCard from './components/ParkSummaryCard/ParkSummaryCard';
 import Header from './containers/Header/Header';
-
+import Footer from './components/Footer/Footer';
+import Homepage from './pages/Homepage/Homepage'
+import AttractionPageCard from './components/AttractionPageCard/AttractionPageCard';
 
 function App() {
 
@@ -21,7 +23,10 @@ function App() {
   return (
     <div className="App">
      <Header/>
-     <ParkSummaryCard/>
+     <AttractionPageCard/> 
+     
+     {/* <Footer/>
+     {/* <ParkSummaryCard/> */}
     </div>
   );
 }
