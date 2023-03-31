@@ -26,19 +26,27 @@ public class DisneyAttractionsController {
         return ResponseEntity.status(HttpStatus.CREATED).body(disneyAttraction);
     }
 
+    @PostMapping("/attractions")
+    public ResponseEntity<String> addAttractions(@RequestBody List<DisneyAttraction> disneyAttraction){
+        for (DisneyAttraction attraction: disneyAttraction) {
+            disneyAttractionsService.addDisneyAttraction(attraction);
+        }
+        return ResponseEntity.status(HttpStatus.CREATED).body("added");
+    }
+
     //READ
     @GetMapping("/attractions")
-    public ResponseEntity<List<DisneyAttraction>> getDisneyAttractions(@RequestParam(required = false) String parkName, @RequestParam(defaultValue = "10") int limit){
+    public ResponseEntity<List<DisneyAttraction>> getDisneyAttractions(@RequestParam(required = false) String parkName, @RequestParam(defaultValue = "100") int limit){
         if(parkName != null){
             return ResponseEntity.status(HttpStatus.OK).body(disneyAttractionsService.getDisneyAttractionsByPark(parkName, limit));
         }
         return ResponseEntity.status(HttpStatus.OK).body(disneyAttractionsService.getAllDisneyAttractions(limit));
     }
 
-//    @GetMapping("/parks")
-//    public ResponseEntity<List<String>> getDisneyParks(){
-//        return ResponseEntity.status(HttpStatus.OK).body(disneyAttractionsService.getDisneyParks());
-//    }
+    @GetMapping("/attractions/parks")
+    public ResponseEntity<List<String>> getDisneyParks(){
+        return ResponseEntity.status(HttpStatus.OK).body(disneyAttractionsService.getDisneyParks());
+    }
 
     @GetMapping("/attractions/ids")
     public ResponseEntity<List<Long>> getDisneyAttractionsIds(){

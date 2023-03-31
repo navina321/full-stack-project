@@ -35,9 +35,10 @@ public class DisneyAttractionsService {
         return disneyAttractionsRepository.findAll().stream().map(attraction -> attraction.getId()).collect(Collectors.toList());
     }
 
-//    public List<String> getDisneyParks(){
-//        return disneyAttractionsRepository.getDistinctDisneyParks();
-//    }
+    public List<String> getDisneyParks(){
+
+        return disneyAttractionsRepository.findAll().stream().map(attraction -> attraction.getPark()).distinct().collect(Collectors.toList());
+    }
 
     public List<DisneyAttraction> getDisneyAttractionsByPark(String parkName, int limit){
         List<DisneyAttraction> disneyAttractions = disneyAttractionsRepository.findAll();
