@@ -1,9 +1,9 @@
 @use '../../assets/styles/variables.scss' as *;
 
-.characters-card-container{
+.parade-show-card-container{
     width: 60vw;
 }
-.characters-title{
+.parade-show-title{
     margin: 0;
     font-size: 3rem;
     padding: 3vh 0;
@@ -11,17 +11,20 @@
     font-family: $font-navigation;
     color: $attraction-font;
 }
-.characters-card{
+.parade-show-card{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
-.characters-image{
+.parade-show-image{
 padding-bottom: 5vh;
 width: 40vw;
 }
-.characters-content{
+.parade-show-description{
+    padding: 5vh 0;
+}
+.parade-show-content{
     margin: 0;
     padding: 1vh;
     font-family: $font-text;

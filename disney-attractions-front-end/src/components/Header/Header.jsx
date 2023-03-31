@@ -2,10 +2,12 @@ import React from "react";
 import Navigation from "../../components/Navigation/Navigation";
 import DisneyCastle from "../../assets/images/header-images/disney-castle.png";
 import DisneyLogo from "../../assets/images/header-images/disney-logo.png";
+import { Link } from "react-router-dom";
 import "./Header.scss";
 const Header = () => {
   return (
     <div className="header-component">
+
       <div className="header-logo-container">
         <img
           src={DisneyCastle}
@@ -18,6 +20,7 @@ const Header = () => {
           className="header-logo-container__title"
         />
       </div>
+    
     </div>
   );
 };

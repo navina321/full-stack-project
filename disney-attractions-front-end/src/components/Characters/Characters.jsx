@@ -7,7 +7,7 @@ const Characters = () => {
       <h2 className='characters-title'>Meet your Favourite Characters!</h2>
       <section className='characters-card'>
         <div className='characters-image-container'>
-          <img src={CharacterImage} alt='charcters' className='characters-image'/>
+          <img src={CharacterImage} alt='characters' className='characters-image'/>
         </div>
         <div className='characters-description'>
           <p className='characters-content'>Meeting characters at Disney World is an incredibly fun and memorable experience for visitors of all ages. Throughout the parks, you will have the opportunity to meet and interact with beloved Disney characters such as Mickey Mouse, Cinderella, Buzz Lightyear, and many more.</p>

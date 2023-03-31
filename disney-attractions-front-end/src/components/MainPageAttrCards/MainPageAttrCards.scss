@@ -6,7 +6,7 @@
 }
 .main-attr-card{
     display: flex;
-    width: 65vw;
+    width: 60vw;
     background-color: white;
     border: 2px solid $header-divider;
     border-radius: 1.5rem;
@@ -23,16 +23,27 @@
     &__title{
         margin: 0;
         align-self: start;
+        font-family: $font-navigation;
+        color: $attraction-font;
+    }
+    &__link{
+        text-decoration: none;
     }
     &__description{
         margin: 0;
-        width: 45vw;
+        width: 40vw;
         padding: 2.5vh 0;
+        font-family: $font-text;
+        color: $attraction-font;
+        
     }
     &__park{
         margin: 0;
+        font-family: $font-navigation;
+        color: $attraction-font;
     }
     &__image{
         height: 20vh;
     }
+   
 }

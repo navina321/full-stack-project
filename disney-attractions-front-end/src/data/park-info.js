@@ -1,4 +1,4 @@
-const parkInfo = [
+export const parkInfo = [
     {   
         id: 1,
         parkName: "Magic Kingdom",

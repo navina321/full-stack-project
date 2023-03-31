@@ -1,0 +1,25 @@
+@use '../../assets/styles/variables.scss' as *;
+
+.attr-cards-container{
+    width: 70vw;
+    //height: 150vh;
+    background-color: $all-attractions-background;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5vh 0;
+    border: 3px solid $attraction-font;
+    border-radius: 1.5rem;
+    //overflow: auto;
+}
+
+.attr-card{
+    padding: 1vh 0;
+}
+.attr-divider{
+    align-self: center;
+    height: 0.25vh;
+    background-color: $attraction-font;
+    
+}

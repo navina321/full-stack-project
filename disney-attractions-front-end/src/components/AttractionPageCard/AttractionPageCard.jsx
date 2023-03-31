@@ -3,6 +3,7 @@ import "./AttractionPageCard.scss";
 
 
 const AttractionPageCard = ({imageURL, attractionName, park, location, rideType, theme, height, access, description}) => {
+  
   return (
     <div className='attraction-page-card'>
       <section className='attraction-card-top'>
