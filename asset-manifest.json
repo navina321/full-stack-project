@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/full-stack-project/static/css/main.0744fbfb.css",
+    "main.js": "/full-stack-project/static/js/main.61938685.js",
+    "static/js/787.1c530afa.chunk.js": "/full-stack-project/static/js/787.1c530afa.chunk.js",
+    "static/media/hollywood-studios.jpg": "/full-stack-project/static/media/hollywood-studios.93c4720b47ef5c8742d3.jpg",
+    "static/media/magic-kingdom.jpg": "/full-stack-project/static/media/magic-kingdom.c22f40b0ecfc0e8c2973.jpg",
+    "static/media/disney-logo.png": "/full-stack-project/static/media/disney-logo.59eaf772104b94411a4d.png",
+    "static/media/epcot.jpg": "/full-stack-project/static/media/epcot.e0252dc8f79225a1e1b2.jpg",
+    "static/media/typhoon-lagoon.jpg": "/full-stack-project/static/media/typhoon-lagoon.5aa40d69bcc522ede31d.jpg",
+    "static/media/parade.jpg": "/full-stack-project/static/media/parade.038dddda665d582a7b9d.jpg",
+    "static/media/disney-springs.jpg": "/full-stack-project/static/media/disney-springs.025eb0168edd11093e7d.jpg",
+    "static/media/animal-kingdom.jpg": "/full-stack-project/static/media/animal-kingdom.a5a83c0abda5f1940285.jpg",
+    "static/media/disney-castle.png": "/full-stack-project/static/media/disney-castle.6fa91911fe78e2648c43.png",
+    "static/media/character.jpg": "/full-stack-project/static/media/character.e36c0378256851a0679b.jpg",
+    "static/media/blizzard-beach.jpg": "/full-stack-project/static/media/blizzard-beach.89cf0999efc3167eeef2.jpg",
+    "index.html": "/full-stack-project/index.html",
+    "main.0744fbfb.css.map": "/full-stack-project/static/css/main.0744fbfb.css.map",
+    "main.61938685.js.map": "/full-stack-project/static/js/main.61938685.js.map",
+    "787.1c530afa.chunk.js.map": "/full-stack-project/static/js/787.1c530afa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0744fbfb.css",
+    "static/js/main.61938685.js"
+  ]
+}
