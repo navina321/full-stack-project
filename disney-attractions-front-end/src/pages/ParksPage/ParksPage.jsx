@@ -3,6 +3,7 @@ import Footer from '../../components/Footer/Footer'
 import ParkSummaryCard from '../../components/ParkSummaryCard/ParkSummaryCard'
 import AttractionContainer from '../../containers/AttractionContainer/AttractionContainer'
 import Header from '../../containers/Header/Header'
+import './ParksPage.scss'
 
 const ParksPage = ({title, description, image, alt}) => {
   return (
@@ -11,9 +12,9 @@ const ParksPage = ({title, description, image, alt}) => {
         <div className='parks-main'>
             <ParkSummaryCard title={title} description={description} image={image} alt={alt}/>
 
-            {/* <div className='parks-attr-container'>
+            <div className='parks-attr-container'>
               <AttractionContainer/>
-            </div> */}
+            </div>
             
         </div>
         
